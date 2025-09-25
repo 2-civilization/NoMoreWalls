@@ -189,7 +189,7 @@ proxies:
   sni: de.youyacloud.me
   tls: false
   type: hysteria2
-- name: 'WI-FI--@IRAN_V2RAY1 #1'
+- name: 🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
