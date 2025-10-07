@@ -391,14 +391,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🇺🇲@FreakConfig
-  password: dongtaiwang.com
-  port: 22222
-  server: 208.87.243.187
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 'WI-FI--@IRAN_V2RAY1 #2'
   password: dongtaiwang.com
   port: 5355
@@ -422,15 +414,6 @@ proxies:
   server: 103.249.133.79
   skip-cert-verify: true
   sni: microsoft.com
-  tls: false
-  type: hysteria2
-- name: '🇺🇲@FreakConfig #1'
-  obfs: salamander
-  obfs-password: uvahwuicbhwabhvlhv
-  password: lHoYmNZmLe
-  port: 53713
-  server: pouria.3dfigures.ir
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '@Daily_Configs #14'
