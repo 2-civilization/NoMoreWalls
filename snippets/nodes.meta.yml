@@ -168,6 +168,62 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: All-@V2ray_Alpha--7
+  password: 2b195c17-5ff5-4b0d-a809-210b92212394
+  port: 443
+  server: amsterdam.nezhasu.com
+  skip-cert-verify: true
+  sni: Amsterdam.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: All-@V2ray_Alpha--5
+  password: 2b195c17-5ff5-4b0d-a809-210b92212394
+  port: 443
+  server: falankefu1.nezhasu.com
+  skip-cert-verify: true
+  sni: falankefu1.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: All-@V2ray_Alpha--1
+  password: 2b195c17-5ff5-4b0d-a809-210b92212394
+  port: 443
+  server: lundun1.nezhasu.com
+  skip-cert-verify: true
+  sni: lundun1.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: All-@V2ray_Alpha--2
+  password: 2b195c17-5ff5-4b0d-a809-210b92212394
+  port: 443
+  server: lundun2.nezhasu.com
+  skip-cert-verify: true
+  sni: lundun2.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: All-@V2ray_Alpha--3
+  password: 2b195c17-5ff5-4b0d-a809-210b92212394
+  port: 443
+  server: lundun3.nezhasu.com
+  skip-cert-verify: true
+  sni: lundun3.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: All-@V2ray_Alpha--4
+  password: 2b195c17-5ff5-4b0d-a809-210b92212394
+  port: 443
+  server: lundun4.nezhasu.com
+  skip-cert-verify: true
+  sni: lundun4.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: All-@V2ray_Alpha--6
+  password: 2b195c17-5ff5-4b0d-a809-210b92212394
+  port: 443
+  server: marseille-1.nezhasu.com
+  skip-cert-verify: true
+  sni: marseille-1.nezhasu.com
+  tls: false
+  type: hysteria2
 - name: MCI-@V2rayAlpha--2
   password: 2b67ONZROv+fRVMxB94BSw==
   port: 443
@@ -293,7 +349,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: All-@V2ray_Alpha--2
+- name: 'All-@V2ray_Alpha--2 #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: 680210f5-3b5f-4947-9983-e508a15cf169
