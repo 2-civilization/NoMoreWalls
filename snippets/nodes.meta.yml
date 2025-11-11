@@ -675,7 +675,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #4'
+- name: All--@V2rayAlpha-1
   password: d3da4e16-9bef-4e54-9bd9-960d32740392
   port: 30000
   server: sb1.oomz.ru
@@ -683,7 +683,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #5'
+- name: All--@V2rayAlpha-2
   password: d3da4e16-9bef-4e54-9bd9-960d32740392
   port: 30000
   server: sb2.oomz.ru
