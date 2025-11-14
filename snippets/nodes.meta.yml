@@ -106,16 +106,6 @@ proxies:
   sni: lsyd1.lansecs.top
   tls: false
   type: hysteria2
-- name: '@Mr_Config_Group✌️'
-  obfs: salamander
-  obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
-  password: 10822856-7452-43ec-b35b-6f24ea33530f
-  port: 29662
-  server: chervhill.hajalii.com
-  skip-cert-verify: false
-  sni: chervhill.hajalii.com
-  tls: false
-  type: hysteria2
 - name: '@V2rayNG3'
   password: '123456'
   port: 443
@@ -318,6 +308,13 @@ proxies:
   sni: d.eans.top
   tls: false
   type: hysteria2
+- name: 🇧🇷  (Hysteria)
+  password: 338ce171-d764-4610-8fd5-6688b0d321f0
+  port: 30102
+  server: 132.226.162.10
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: MCI-IR--@V2rayAlpha-8
   password: 338ce171-d764-4610-8fd5-6688b0d321f0
   port: 30102
@@ -338,6 +335,21 @@ proxies:
   port: 443
   server: hk.xn--9kqw1xbnu.shop
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '@meli_proxyy #20'
+  password: 5001b8d8-76ce-474c-bc29-94e6caa61164
+  port: 44001
+  server: 141.147.52.24
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '@meli_proxyy #21'
+  password: 5001b8d8-76ce-474c-bc29-94e6caa61164
+  port: 44001
+  server: 92.5.77.25
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: All-@V2rayAlpha--6
