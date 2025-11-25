@@ -136,7 +136,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: 🇩🇪 - DE - @freeOnlineVPN
+- name: '🔷🆔@v2ray_configs_pool🔷 #80'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -152,16 +152,6 @@ proxies:
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
   server: 77.90.41.197
-  skip-cert-verify: true
-  sni: jnir.pichondan.com
-  tls: false
-  type: hysteria2
-- name: '🇳🇱@FreakConfig #5'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: dir.cybsecguru.com
   skip-cert-verify: true
   sni: jnir.pichondan.com
   tls: false
