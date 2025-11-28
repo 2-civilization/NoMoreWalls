@@ -286,6 +286,30 @@ proxies:
   sni: dg.jgpyjc.top
   tls: false
   type: hysteria2
+- name: 🎵1@oneclickvpnkeys
+  password: 52d0cb21-56da-4f00-862f-be01b66446a8
+  port: 443
+  server: falankefu1.nezhasu.com
+  skip-cert-verify: true
+  sni: falankefu1.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 🎵6@oneclickvpnkeys
+  password: 52d0cb21-56da-4f00-862f-be01b66446a8
+  port: 443
+  server: lundun2.nezhasu.com
+  skip-cert-verify: true
+  sni: lundun2.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 🎵16@oneclickvpnkeys
+  password: 52d0cb21-56da-4f00-862f-be01b66446a8
+  port: 443
+  server: lundun4.nezhasu.com
+  skip-cert-verify: true
+  sni: lundun4.nezhasu.com
+  tls: false
+  type: hysteria2
 - name: 'All-@V2ray_Alpha--3 #1'
   obfs: salamander
   obfs-password: jjQQP9Av2l6BRdP5
@@ -303,30 +327,6 @@ proxies:
   port: 989
   server: dd.openaccessnode.com
   sni: dd.ircybersec.org
-  tls: false
-  type: hysteria2
-- name: ✨19@oneclickvpnkeys
-  password: 89451f48-2b2e-4f8b-8f64-edef856ba484
-  port: 30000
-  server: de1.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: ✨20@oneclickvpnkeys
-  password: 89451f48-2b2e-4f8b-8f64-edef856ba484
-  port: 30000
-  server: sb1.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: ✨23@oneclickvpnkeys
-  password: 89451f48-2b2e-4f8b-8f64-edef856ba484
-  port: 30000
-  server: sb2.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: 🇳🇱@FreakConfig
@@ -349,7 +349,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #2'
+- name: '🇳🇱 - NL - @freeOnlineVPN #5'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -406,7 +406,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🇩🇪@FreakConfig #1'
+- name: '🇩🇪 - DE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -460,6 +460,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🎵12@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 5355
+  server: 163.172.21.105
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 🔒74@oneclickvpnkeys
   password: dongtaiwang.com
   port: 33880
@@ -476,7 +484,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 🌏38@oneclickvpnkeys
+- name: 🎵5@oneclickvpnkeys
   password: dongtaiwang.com
   port: 50066
   server: 51.158.218.2
@@ -498,6 +506,22 @@ proxies:
   server: 5.180.30.16
   skip-cert-verify: true
   sni: api.push.apple.com
+  tls: false
+  type: hysteria2
+- name: 🎵3@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: amsterdam.nezhasu.com
+  skip-cert-verify: true
+  sni: Amsterdam.nezhasu.com
+  tls: false
+  type: hysteria2
+- name: 🎵13@oneclickvpnkeys
+  password: f62dcdd4-a8f8-440e-8cc7-f5bb2f762375
+  port: 443
+  server: lundun3.nezhasu.com
+  skip-cert-verify: true
+  sni: lundun3.nezhasu.com
   tls: false
   type: hysteria2
 - name: MCI-IR--@V2rayAlpha-16
@@ -1333,7 +1357,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: 🏴‍☠️@FreakConfig
+- name: '🇳🇱 - NL - @freeOnlineVPN #6'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1353,7 +1377,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 'All--@IRAN_V2RAY1 #4'
+- name: '🇳🇱 - NL - @freeOnlineVPN #7'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1426,7 +1450,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: MTN--@IRAN_V2RAY1
+- name: '🇳🇱 - NL - @freeOnlineVPN #8'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -1650,7 +1674,7 @@ proxies:
   sni: webservice-admin.tgju.org
   tls: false
   type: hysteria2
-- name: 🇩🇪 - DE - @freeOnlineVPN
+- name: '🇩🇪 - DE - @freeOnlineVPN #4'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: wXh99oRDIt
