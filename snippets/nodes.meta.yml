@@ -218,7 +218,7 @@ proxies:
   sni: dd.ircybersec.org
   tls: false
   type: hysteria2
-- name: WiFi-@V2rayAlpha--2
+- name: 🇷🇺@FreakConfig
   password: SNItest
   port: 443
   server: 37.18.14.169
@@ -313,7 +313,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #5'
+- name: '🇩🇪 - DE - @freeOnlineVPN #6'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -910,7 +910,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #4'
+- name: '🇩🇪 - DE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: 7vsrTEAyOw
@@ -938,6 +938,16 @@ proxies:
   server: drhystuichdfy.samanidempire.org
   skip-cert-verify: true
   sni: drhystuichdfy.samanidempire.org
+  tls: false
+  type: hysteria2
+- name: '@meli_proxyy #4'
+  obfs: salamander
+  obfs-password: 2wsx
+  password: 83ee741e-4357-4e7c-bfdd-b259c8d1b981
+  port: 4431
+  server: blogtest.ghazatehran.ir
+  skip-cert-verify: true
+  sni: blogtest.ghazatehran.ir
   tls: false
   type: hysteria2
 - name: All-@V2rayAlpha--44
@@ -973,14 +983,6 @@ proxies:
   port: 44001
   server: 141.147.52.24
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '@Selinc #5'
-  password: 907d9a05-3bd2-4b44-b1f9-4f26dba76f88
-  port: 44001
-  server: 85.208.9.189
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 'All--@IRAN_V2RAY1🇺🇸 #2'
@@ -1119,7 +1121,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #3'
+- name: '🇩🇪 - DE - @freeOnlineVPN #4'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: EKLeRwhlYy
@@ -1362,22 +1364,6 @@ proxies:
   server: 81.168.83.89
   skip-cert-verify: true
   sni: kotlet.arshiacomplus.dpdns.org
-  tls: false
-  type: hysteria2
-- name: '@Selinc #11'
-  password: ab858115-e0ab-4cb7-8e65-0804c35e52d5
-  port: 30000
-  server: nl2.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- name: '@Selinc #12'
-  password: ab858115-e0ab-4cb7-8e65-0804c35e52d5
-  port: 30000
-  server: us4.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: 'All-@V2ray_Alpha--6 #1'
