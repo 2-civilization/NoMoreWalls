@@ -89,7 +89,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: '@meli_proxyy #1'
+- name: 🇳🇱@FreakConfig
   password: 2408982813-20241210
   port: 443
   server: genshin-v4-oracle-amd.damaoooo.com
@@ -173,7 +173,7 @@ proxies:
   sni: megafon.ru
   tls: false
   type: hysteria2
-- name: 🇳🇱@FreakConfig
+- name: '🇳🇱@FreakConfig #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -250,7 +250,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #6'
+- name: '🇩🇪 - DE - @freeOnlineVPN #5'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -864,7 +864,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #3'
+- name: '🇩🇪 - DE - @freeOnlineVPN #2'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: 7vsrTEAyOw
@@ -1190,7 +1190,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #4'
+- name: '🇩🇪 - DE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: RZjK7qHG15
@@ -1200,7 +1200,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #1'
+- name: '🇳🇱@FreakConfig #2'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -1413,10 +1413,73 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 🔷🆔@v2ray_configs_pool🔷
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21253
+  server: hk.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: '🔸@IRAN_V2RAY1💘 #6'
   password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
   port: 21268
   server: hk.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #2'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21422
+  server: hk.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #3'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21465
+  server: hk.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #4'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21085
+  server: jp.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #5'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21088
+  server: jp.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #6'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21201
+  server: jp.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #7'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21917
+  server: jp.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #8'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21168
+  server: my.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #9'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21404
+  server: my.xn--gmq00sc0nuve.shop
   skip-cert-verify: false
   tls: false
   type: hysteria2
@@ -1427,11 +1490,95 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #11'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21935
+  server: my.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #12'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21456
+  server: sg.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #13'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21514
+  server: sg.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #14'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21772
+  server: sg.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #15'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21975
+  server: sg.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #16'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21088
+  server: tr.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: '@meli_proxyy #14'
   password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
   port: 21105
   server: tr.xn--gmq00sc0nuve.shop
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #18'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21110
+  server: tr.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #19'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21900
+  server: tr.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #20'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21031
+  server: us.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #21'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21078
+  server: us.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #22'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21652
+  server: us.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
+- name: '🔷🆔@v2ray_configs_pool🔷 #23'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21928
+  server: us.xn--gmq00sc0nuve.shop
+  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: '🇺🇸@FreakConfig #1'
