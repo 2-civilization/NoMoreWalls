@@ -1,4 +1,12 @@
 proxies:
+- name: 🇺🇸h@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 22222
+  server: 208.87.243.187
+  skip-cert-verify: true
+  sni: sberbank.ru
+  tls: false
+  type: hysteria2
 - name: All-@V2rayAlpha--46
   password: 6286105c-fb6d-11ef-be96-f23c93136cb3
   port: 1743
