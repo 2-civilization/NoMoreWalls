@@ -12,7 +12,6 @@ proxies:
   password: 76d630f2af6619c4a5de0ef953df3c6a
   port: 3093
   server: 160.16.229.223
-  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 日本3|@ripaojiedian
@@ -20,6 +19,5 @@ proxies:
   password: 76d630f2af6619c4a5de0ef953df3c6a
   port: 3093
   server: 52.193.180.87
-  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
