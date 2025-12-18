@@ -129,6 +129,16 @@ proxies:
   sni: zp1.eyujichang.xyz
   tls: false
   type: hysteria2
+- name: 🎨4@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: GyiIHT0mOkKCiq0Q
+  password: 274691f9-e6c0-46ff-82f2-3a9062872a04
+  port: 443
+  server: it1.miyazono-kaori.com
+  skip-cert-verify: true
+  sni: it1.miyazono-kaori.com
+  tls: false
+  type: hysteria2
 - name: UK
   password: 3C8h8X6kimbOX68joVe3kTERw
   port: 7197
@@ -175,6 +185,12 @@ proxies:
   server: 52.221.210.182
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 🎨2@oneclickvpnkeys
+  password: 693a3ce6-2188-4fe9-82c0-c5c289532534
+  port: 20000
+  server: hl.dabache.top
   tls: false
   type: hysteria2
 - name: KR
@@ -1018,6 +1034,14 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
+- name: 4j0iQnX"&insecure=1&sni=ftp.de...
+  obfs: salamander
+  obfs-password: t2]zv9-6Ku]QF,<73IQM,cuC}f9AG4C+v14ZG(KN~
+  password: Pax8sf4epd
+  port: 443
+  server: 31.56.146.42
+  tls: false
+  type: hysteria2
 - name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #13'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
@@ -1136,7 +1160,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #2'
+- name: 'All-@V2rayAlpha--6 #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
