@@ -105,7 +105,7 @@ proxies:
   server: hl.dabache.top
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #1'
+- name: '🇳🇱 - NL - @freeOnlineVPN #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -149,6 +149,15 @@ proxies:
   server: 62.210.99.49
   skip-cert-verify: true
   sni: apple.com
+  tls: false
+  type: hysteria2
+- name: 📡15@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: e6499c55-5a54-4a2b-a1f8-725a17b4ae85
+  port: 80
+  server: 85.209.53.170
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: All--@V2rayAlpha--17
@@ -428,7 +437,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #1'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #2'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: 4CQDwSnjr3
@@ -721,7 +730,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #13'
+- name: 🇩🇪 - DE - @freeOnlineVPN
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: LGpqcECo3X
@@ -827,7 +836,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #2'
+- name: '🇳🇱@FreakConfig #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
