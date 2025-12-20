@@ -125,7 +125,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: All_9--@V2rayAlpha
+- name: 'r♡ya #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -149,14 +149,6 @@ proxies:
   password: dongtaiwang.com
   port: 33880
   server: 195.154.206.231
-  skip-cert-verify: true
-  sni: apple.com
-  tls: false
-  type: hysteria2
-- name: ✅72@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 40088
-  server: 62.210.99.49
   skip-cert-verify: true
   sni: apple.com
   tls: false
@@ -722,7 +714,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #2'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #12'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: LGpqcECo3X
@@ -768,7 +760,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: 🇳🇱@FreakConfig
+- name: '@Broz_time > کانفیگ رایگان'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -818,7 +810,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #1'
+- name: 'All--@IRAN_V2RAY1 #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
