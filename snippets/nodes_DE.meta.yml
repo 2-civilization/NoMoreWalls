@@ -252,16 +252,6 @@ proxies:
 - name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #25'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: yrBnLOzhOi
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #26'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: zdUcTseVJy
   port: 443
   server: 91.99.225.11
