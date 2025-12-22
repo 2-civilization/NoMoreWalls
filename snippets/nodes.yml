@@ -110,7 +110,7 @@ proxies:
   port: 38388
   server: 216.250.97.82
   type: ss
-- name: 香港3|@ripaojiedian
+- name: HK_speednode_0016
   network: tcp
   password: 44e660b0ee21cf3ac66aee2c08af85d2
   port: 443
@@ -118,6 +118,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
+  udp: true
 - name: 香港4|@ripaojiedian
   network: tcp
   password: BxceQaOe
@@ -241,7 +242,7 @@ proxies:
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- name: RU_speednode_0012
+- name: RU_speednode_0026
   network: ws
   password: 5a2c16f9
   port: 443

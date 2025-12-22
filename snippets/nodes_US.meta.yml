@@ -31,13 +31,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@TapsiVpn • JOIN 🇺🇸  @TapsiVpn...'
-  password: dc4b63d4-5010-4b92-b0e8-adfa4c3292c4
-  port: 21738
-  server: us.xn--9kqy68chx3a.shop
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: All-@V2ray_Alpha--7
   password: df7bed3c-06eb-11f0-8ebc-f23c93141fad
   port: 443
@@ -97,31 +90,8 @@ proxies:
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: US_speednode_0020
-  port: 443
-  reality-opts:
-    public-key: pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U
-    short-id: '!!str 505adbea98a0b5fe'
-  server: 185.177.238.40
-  servername: alban.normbot.ru
-  skip-cert-verify: false
-  tls: true
-  type: vless
+- name: US_speednode_0028
+  port: 5555
+  server: 167.172.239.171
+  type: socks5
   udp: true
-  uuid: 71e0492e-9dc5-4fef-891b-15c983934886
-- name: US_speednode_0021
-  network: ws
-  port: 2053
-  server: 66.235.200.109
-  servername: stall.saass.ccwu.cc
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 6943fe4d-0a5e-0543-d402-0e5cf7fe7af0
-  ws-opts:
-    headers:
-      Host: stall.saass.ccwu.cc
-    path: /proxyip=sjc.o00o.ooo

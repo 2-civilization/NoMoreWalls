@@ -260,7 +260,33 @@ proxies:
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
-  name: DE_speednode_0002
+  name: DE_speednode_0007
+  port: 443
+  reality-opts:
+    public-key: eKglVNr1vCmVZxLeGS6_-sZWXEJLWckuzkpmox1-jQ8
+    short-id: '!!str b05bc387'
+  server: de24.abvpn.ru
+  servername: ozon.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1a539db6-d162-42f4-9b56-687bd57bfbc2
+- client-fingerprint: chrome
+  name: DE_speednode_0008
+  port: 443
+  reality-opts:
+    public-key: eKglVNr1vCmVZxLeGS6_-sZWXEJLWckuzkpmox1-jQ8
+    short-id: '!!str b05bc387'
+  server: 84.200.81.229
+  servername: ozon.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1a539db6-d162-42f4-9b56-687bd57bfbc2
+- client-fingerprint: chrome
+  name: DE_speednode_0009
   packet-encoding: xudp
   port: 443
   reality-opts:
