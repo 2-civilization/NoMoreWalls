@@ -1,4 +1,13 @@
 proxies:
+- name: '🇩🇪 - DE - @freeOnlineVPN #1'
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: e6499c55-5a54-4a2b-a1f8-725a17b4ae85
+  port: 80
+  server: 85.209.53.170
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه...
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
@@ -179,7 +188,7 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #2'
+- name: '🇩🇪 - DE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: jk9cSiRPv7
@@ -192,7 +201,7 @@ proxies:
 - name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #19'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: oivSVs1Wgz
+  password: ltN6NLua9i
   port: 443
   server: 91.99.225.11
   skip-cert-verify: true
@@ -202,7 +211,7 @@ proxies:
 - name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #20'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: uoGRSTIwX9
+  password: oivSVs1Wgz
   port: 443
   server: 91.99.225.11
   skip-cert-verify: true
@@ -212,7 +221,7 @@ proxies:
 - name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #21'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: wXh99oRDIt
+  password: uoGRSTIwX9
   port: 443
   server: 91.99.225.11
   skip-cert-verify: true
@@ -222,7 +231,7 @@ proxies:
 - name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #22'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: wkAHoJxpH6
+  password: wXh99oRDIt
   port: 443
   server: 91.99.225.11
   skip-cert-verify: true
@@ -230,6 +239,16 @@ proxies:
   tls: false
   type: hysteria2
 - name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #23'
+  obfs: salamander
+  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
+  password: wkAHoJxpH6
+  port: 443
+  server: 91.99.225.11
+  skip-cert-verify: true
+  sni: refersion.com
+  tls: false
+  type: hysteria2
+- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #24'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: zdUcTseVJy
