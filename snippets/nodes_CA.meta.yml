@@ -1,1 +1,11 @@
-proxies: []
+proxies:
+- name: '🔸@IRAN_V2RAY1💘 #5'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36300
+  server: 206.71.158.37
+  skip-cert-verify: true
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
