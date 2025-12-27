@@ -529,16 +529,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #4'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: 7l9x40rVnS
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
 - name: All-@V2rayAlpha--44
   password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
   port: 47262
@@ -571,10 +561,20 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #5'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #4'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: AXvJYnaaqG
+  port: 443
+  server: 91.99.225.11
+  skip-cert-verify: true
+  sni: refersion.com
+  tls: false
+  type: hysteria2
+- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #5'
+  obfs: salamander
+  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
+  password: BZa1M5Mciv
   port: 443
   server: 91.99.225.11
   skip-cert-verify: true
@@ -699,7 +699,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #2'
+- name: '🇳🇱@FreakConfig #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1059,16 +1059,6 @@ proxies:
 - name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #19'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: oivSVs1Wgz
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #20'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: rxwfFuEMrr
   port: 443
   server: 91.99.225.11
@@ -1086,7 +1076,7 @@ proxies:
   sni: ghasem.kotlet.org
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #21'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #20'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: uoGRSTIwX9
@@ -1104,7 +1094,7 @@ proxies:
   server: channel3.saghetalaie.homes
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #22'
+- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #21'
   obfs: salamander
   obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
   password: zdUcTseVJy
