@@ -109,16 +109,6 @@ proxies:
   sni: refersion.com
   tls: false
   type: hysteria2
-- name: r♡ya@V2rayBaaz
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 135.125.204.154
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
 - name: '🇩🇪 - DE - @freeOnlineVPN #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -136,16 +126,6 @@ proxies:
   port: 33500
   server: 5.175.249.174
   skip-cert-verify: false
-  sni: updates.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 'r♡ya@V2rayBaaz #8'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 33500
-  server: updates.kermanshahi.org
-  skip-cert-verify: true
   sni: updates.kermanshahi.org
   tls: false
   type: hysteria2
