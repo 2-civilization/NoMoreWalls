@@ -133,7 +133,7 @@ proxies:
   sni: falankefu1.nezhasu.com
   tls: false
   type: hysteria2
-- name: 🚩41@oneclickvpnkeys
+- name: 🚩41@ConfigV2RayNG
   password: e343471a-aad3-40da-9dea-72cc8c7dce5f
   port: 443
   server: 152.67.95.183
@@ -250,16 +250,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه...
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: 4CQDwSnjr3
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
 - name: All--@V2rayAlpha--20
   password: 4fb15f9c-f078-11ed-814b-f23c91369f2d
   port: 443
@@ -291,42 +281,12 @@ proxies:
   sni: hsdg.huasuan666.top
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #1'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: 5MHa2ppKQq
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: 🇱🇺@V2RayyNGvpn🇱🇺همه اوپراتور ه...
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: 5x02AmyHdh
-  port: 2087
-  server: 134.209.206.135
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
 - name: 'All--@IRAN_V2RAY1🇺🇸 #1'
   password: 6286105c-fb6d-11ef-be96-f23c93136cb3
   port: 1743
   server: cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk
   skip-cert-verify: false
   sni: cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #2'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: 72SR90kxWa
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
   tls: false
   type: hysteria2
 - name: All-@V2rayAlpha-26
@@ -371,16 +331,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🇲🇫@V2RayyNGvpn🇲🇫همه اوپراتور ه...
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: 87q1ZjCf5K
-  port: 2087
-  server: 45.32.145.222
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
 - name: All--@V2rayAlpha--25
   password: 8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9
   port: 443
@@ -405,74 +355,13 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #3'
+- name: ConfigV2RayNG↩️🍌
   obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: AXvJYnaaqG
-  port: 443
-  server: 91.99.225.11
+  obfs-password: Parsashonam
+  password: S1XZDIaoUX
+  port: 50163
+  server: 193.108.112.6
   skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #4'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: BZa1M5Mciv
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #5'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: BZt34XQ1vL
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #6'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: GZCEhvG4qN
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #7'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: GsM2gHXMdz
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #8'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: LGpqcECo3X
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #9'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: SAOLvYVTTu
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
   tls: false
   type: hysteria2
 - name: '🔸@IRAN_V2RAY1💘 #3'
@@ -509,16 +398,6 @@ proxies:
   server: gavazn.lnmarketplace.net
   skip-cert-verify: true
   sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #10'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: UyGa9rn0Hk
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
   tls: false
   type: hysteria2
 - name: 👑82@ConfigV2RayNG
@@ -617,7 +496,7 @@ proxies:
   sni: f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #1'
+- name: '🇩🇪ConfigV2RayNG #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -627,22 +506,12 @@ proxies:
   sni: updates.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 📟32@ConfigV2RayNG
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
-  port: 35000
-  server: 206.71.158.40
-  skip-cert-verify: true
-  sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
 - name: 🇳🇱 - NL - @freeOnlineVPN
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
-  server: 206.71.158.41
+  server: 206.71.158.40
   skip-cert-verify: true
   sni: api.kermanshahi.org
   tls: false
@@ -654,10 +523,20 @@ proxies:
   port: 35000
   server: 206.71.158.41
   skip-cert-verify: true
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: '🇳🇱 - NL - @freeOnlineVPN #2'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 206.71.158.41
+  skip-cert-verify: true
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #2'
+- name: '🇩🇪 - DE - @freeOnlineVPN #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -677,7 +556,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #4'
+- name: '🇩🇪 - DE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -687,7 +566,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #5'
+- name: '🇩🇪 - DE - @freeOnlineVPN #4'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -697,7 +576,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #6'
+- name: '🇩🇪 - DE - @freeOnlineVPN #5'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -778,16 +657,6 @@ proxies:
   server: 72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com
   skip-cert-verify: false
   sni: 72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #11'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: cUY1UIE1ef
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
   tls: false
   type: hysteria2
 - name: All--@V2rayAlpha-18
@@ -948,16 +817,6 @@ proxies:
   server: channel1.saghetalaie.homes
   tls: false
   type: hysteria2
-- name: 🇺🇲@V2RayyNGvpn🇺🇲همه اوپراتور ه...
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: gZBgjlPmPF
-  port: 2083
-  server: 85.9.197.203
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
 - name: r♡ya@V2rayBaaz|نت ملی
   obfs: salamander
   obfs-password: 7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh
@@ -966,56 +825,6 @@ proxies:
   server: gamingger02.wilduser.org
   skip-cert-verify: true
   sni: bts.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #12'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: jk9cSiRPv7
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #13'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: kl6QSAMhZS
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #14'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: lMa2L1EbH7
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #15'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: ltN6NLua9i
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #16'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: rxwfFuEMrr
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
   tls: false
   type: hysteria2
 - name: '✅سرورهایبیشتردرکانال:prrofile_... #2'
@@ -1034,16 +843,6 @@ proxies:
   password: yhqy5AHofQq
   port: 46914
   server: channel3.saghetalaie.homes
-  tls: false
-  type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ه... #17'
-  obfs: salamander
-  obfs-password: Jsbdksj@V2RayyNGvpn$Miracle
-  password: zdUcTseVJy
-  port: 443
-  server: 91.99.225.11
-  skip-cert-verify: true
-  sni: refersion.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
