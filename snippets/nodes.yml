@@ -119,7 +119,7 @@ proxies:
     headers:
       Host: hkt.gotochinatown.net
     path: /
-- name: HK_speednode_0008
+- name: HK_speednode_0007
   network: tcp
   password: 381f2e86233720eacda26d50e9aa26da
   port: 443
@@ -250,21 +250,8 @@ proxies:
   ws-opts:
     headers:
       Host: snippets.kkii.eu.org
-    path: /Telegram🇨🇳WangCai2
+    path: /TelegramU0001F1E8U0001F1F3WangCai2
 - name: DE_speednode_0003
-  network: ws
-  password: 554f139b-f31f-41c4-99f9-73d60647db26
-  port: 8443
-  server: 178.250.187.3
-  skip-cert-verify: true
-  sni: snippets.kkii.eu.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: snippets.kkii.eu.org
-    path: /Telegram🇨🇳WangCai2
-- name: DE_speednode_0004
   network: ws
   password: 554f139b-f31f-41c4-99f9-73d60647db26
   port: 443
@@ -277,7 +264,20 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /Telegram🇨🇳WangCai2
-- name: RU_speednode_0021
+- name: DE_speednode_0004
+  network: ws
+  password: 554f139b-f31f-41c4-99f9-73d60647db26
+  port: 8443
+  server: 178.250.187.3
+  skip-cert-verify: true
+  sni: snippets.kkii.eu.org
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: snippets.kkii.eu.org
+    path: /Telegram🇨🇳WangCai2
+- name: RU_speednode_0011
   network: ws
   password: 554f139b-f31f-41c4-99f9-73d60647db26
   port: 2096
@@ -290,7 +290,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /Telegram🇨🇳WangCai2
-- name: RU_speednode_0022
+- name: RU_speednode_0013
   network: ws
   password: ff1dbbc9-ddf2-4d6c-a315-61ecd4223bc0
   port: 2096
@@ -303,7 +303,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /Telegram🇨🇳WangCai2
-- name: US_speednode_0030
+- name: US_speednode_0015
   network: ws
   password: ff1dbbc9-ddf2-4d6c-a315-61ecd4223bc0
   port: 443
@@ -316,72 +316,7 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /Telegram🇨🇳WangCai2
-- name: US_speednode_0032
-  network: ws
-  password: 5a2c16f9
-  port: 443
-  server: one.cf.cdn.hyli.xyz
-  skip-cert-verify: true
-  sni: snippets.kkii.eu.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: snippets.kkii.eu.org
-    path: /
-- name: US_speednode_0033
-  network: ws
-  password: 5a2c16f9
-  port: 443
-  server: 104.17.237.219
-  skip-cert-verify: true
-  sni: snippets.kkii.eu.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: snippets.kkii.eu.org
-    path: /
-- name: US_speednode_0035
-  network: ws
-  password: 5a2c16f9
-  port: 443
-  server: 172.64.229.55
-  skip-cert-verify: true
-  sni: snippets.kkii.eu.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: snippets.kkii.eu.org
-    path: /
-- name: US_speednode_0036
-  network: ws
-  password: 5a2c16f9
-  port: 2096
-  server: 135.84.73.238
-  skip-cert-verify: true
-  sni: snippets.kkii.eu.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: snippets.kkii.eu.org
-    path: /Telegram🇨🇳WangCai2
-- name: US_speednode_0038
-  network: ws
-  password: 5a2c16f9
-  port: 443
-  server: cf.130519.xyz
-  skip-cert-verify: true
-  sni: snippets.kkii.eu.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: snippets.kkii.eu.org
-    path: /
-- name: US_speednode_0039
+- name: US_speednode_0016
   network: ws
   password: 5a2c16f9
   port: 2096
@@ -394,11 +329,11 @@ proxies:
     headers:
       Host: snippets.kkii.eu.org
     path: /TelegramU0001F1E8U0001F1F3WangCai2
-- name: US_speednode_0040
+- name: US_speednode_0017
   network: ws
   password: 5a2c16f9
-  port: 2053
-  server: 199.119.137.77
+  port: 2096
+  server: 135.84.73.238
   skip-cert-verify: true
   sni: snippets.kkii.eu.org
   type: trojan
@@ -406,17 +341,4 @@ proxies:
   ws-opts:
     headers:
       Host: snippets.kkii.eu.org
-    path: /Telegram@V2rayAlpha
-- name: US_speednode_0041
-  network: ws
-  password: 5a2c16f9
-  port: 443
-  server: 172.64.229.65
-  skip-cert-verify: true
-  sni: snippets.kkii.eu.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: snippets.kkii.eu.org
-    path: /
+    path: /Telegram🇨🇳WangCai2
