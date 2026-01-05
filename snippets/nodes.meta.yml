@@ -410,6 +410,14 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
+- name: 16♾️@oneclickvpnkeys
+  password: e343471a-aad3-40da-9dea-72cc8c7dce5f
+  port: 443
+  server: 193.123.76.84
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: 'SG #6'
   password: e7965e64-e001-4e8c-8273-39c61ff4a094
   port: 30000
@@ -840,7 +848,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #5'
+- name: '🇫🇷 - FR - @freeOnlineVPN #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
