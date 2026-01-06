@@ -15,7 +15,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 🇫🇷 - FR - @freeOnlineVPN
+- name: '🇫🇷 - FR - @freeOnlineVPN #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -23,13 +23,5 @@ proxies:
   server: 51.178.55.157
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 🇫🇷@TapsiVpn. join
-  password: de63b3fa-fb7c-4ddd-8b09-5973a30168c6
-  port: 20501
-  server: fg.zhujue.us
-  skip-cert-verify: true
-  sni: fg.zhujue.us
   tls: false
   type: hysteria2
