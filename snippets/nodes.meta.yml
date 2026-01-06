@@ -354,7 +354,7 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #7'
+- name: '🇳🇱 - NL - @freeOnlineVPN #10'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -364,7 +364,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🇳🇱 - NL - @freeOnlineVPN #9'
+- name: '🇳🇱 - NL - @freeOnlineVPN #13'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -374,7 +374,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #1'
+- name: '🇩🇪 - DE - @freeOnlineVPN #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -750,6 +750,16 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: 'ConfigV2RayNG #1'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36400
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
 - name: All--@IRAN_V2RAY1🇬🇧
   obfs: salamander
   obfs-password: khameniiko@smad@ret
@@ -776,7 +786,7 @@ proxies:
   sni: hk1.shiyuandian.shop
   tls: false
   type: hysteria2
-- name: '🇳🇱@FreakConfig #6'
+- name: '🇳🇱@FreakConfig #5'
   obfs: salamander
   obfs-password: SjSQ10UvLYEztFdQKTJQFA8imEc4W
   password: asrnovin_ir
@@ -786,13 +796,43 @@ proxies:
   sni: bts.com
   tls: false
   type: hysteria2
-- name: telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+- name: 'ConfigV2RayNG #2'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 181.214.231.121
+  skip-cert-verify: false
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 'ConfigV2RayNG #3'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 181.214.99.162
+  skip-cert-verify: false
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: '🇳🇱 - NL - @freeOnlineVPN #12'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
   port: 35000
   server: 206.71.158.41
   skip-cert-verify: true
+  sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 'ConfigV2RayNG #6'
+  obfs: salamander
+  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
+  password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
+  port: 35000
+  server: 5.175.249.174
+  skip-cert-verify: false
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
@@ -806,7 +846,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '🇩🇪 - DE - @freeOnlineVPN #2'
+- name: '🇩🇪 - DE - @freeOnlineVPN #3'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -816,7 +856,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: '🇫🇷 - FR - @freeOnlineVPN #1'
+- name: '🇳🇱 - NL - @freeOnlineVPN #14'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -939,7 +979,7 @@ proxies:
   sni: johannesburg-4.nezhasu.com
   tls: false
   type: hysteria2
-- name: '𝗝𝗼𝗶𝗻 ➠ @Daily_Configs 🫆 #1'
+- name: 𝗝𝗼𝗶𝗻 ➠ @Daily_Configs 🫆
   password: d9812081-7f61-456d-9340-a1fb8dfd603b
   port: 443
   server: 89.168.80.242
@@ -1015,7 +1055,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '𝗝𝗼𝗶𝗻 ➠ @Daily_Configs 🫆 #2'
+- name: '@V2ray1_Ng #4'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
   password: e20cc63dc06088fba56bf786860aadaf
