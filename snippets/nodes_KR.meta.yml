@@ -1,4 +1,10 @@
 proxies:
+- cipher: aes-256-cfb
+  name: 🇰🇷 韩国|@ripaojiedian
+  password: qwerREWQ@@
+  port: 5206
+  server: 27.255.82.134
+  type: ss
 - name: KR_speednode_0012
   network: ws
   port: 12435
