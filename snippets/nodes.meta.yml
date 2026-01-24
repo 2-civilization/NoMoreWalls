@@ -143,14 +143,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '@NIM_VPN_ir'
-  password: 98b5354b-fbd1-4be0-86aa-65356637aa4c
-  port: 20061
-  server: 129.150.43.139
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '@hopev2ray ❤️'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
@@ -171,21 +163,21 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: ⚡Telegram = @SOSkeyNET
+- name: 🇲🇹@SimChin_iR جوین شید
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
   port: 35200
   server: 206.71.158.37
-  skip-cert-verify: false
-  sni: YAPC-1.afshin.i
+  skip-cert-verify: true
+  sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '⚡Telegram = @SOSkeyNET #3'
+- name: ⚡Telegram = @vmessorg
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
-  port: 35200
+  port: 36600
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
