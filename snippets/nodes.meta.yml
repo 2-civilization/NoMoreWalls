@@ -185,6 +185,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 💞2@oneclickvpnkeys
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
+  tls: false
+  type: hysteria2
 - name: none
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
