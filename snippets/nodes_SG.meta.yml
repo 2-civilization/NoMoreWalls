@@ -7,20 +7,18 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 新加坡|@ripaojiedian
-  network: tcp
+- name: 🇸🇬 新加坡|@ripaojiedian
   password: 64a59181551b5773e390bd717a7b7c06
   port: 3901
   server: 160.16.72.205
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 新加坡2|@ripaojiedian
-  network: tcp
+- name: 🇸🇬 新加坡2|@ripaojiedian
   password: 64a59181551b5773e390bd717a7b7c06
   port: 3901
   server: 153.121.39.240
-  skip-cert-verify: true
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 新加坡3|@ripaojiedian
@@ -30,4 +28,27 @@ proxies:
   server: 57.180.245.83
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
+  type: trojan
+- name: 新加坡|@ripaojiedian
+  network: tcp
+  password: 64a59181551b5773e390bd717a7b7c06
+  port: 3901
+  server: 13.231.178.109
+  sni: www.nintendogames.net
+  type: trojan
+- name: 新加坡2|@ripaojiedian
+  network: tcp
+  password: 64a59181551b5773e390bd717a7b7c06
+  port: 3901
+  server: 18.183.98.127
+  skip-cert-verify: true
+  sni: www.nintendogames.net
+  type: trojan
+- name: 新加坡4|@ripaojiedian
+  network: tcp
+  password: 736cd94d-7b94-3e44-8106-3419f64eaf09
+  port: 443
+  server: sg.singaporenodeserverone.co.ua
+  skip-cert-verify: true
+  sni: 45.32.28.232
   type: trojan
