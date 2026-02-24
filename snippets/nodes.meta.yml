@@ -128,7 +128,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@WedBaZTel #2'
+- name: '@Hddify #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -194,15 +194,6 @@ proxies:
   server: 130.61.50.75
   tls: false
   type: hysteria2
-- name: '@V2rayBaaz #1'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi'
-  password: 75193bef8d8fe82341e02dd083dc1399
-  port: 989
-  server: dd.openaccessnode.com
-  sni: dd.ircybersec.org
-  tls: false
-  type: hysteria2
 - name: All_7--@V2rayAlpha
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -213,7 +204,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@WedBaZTel #1'
+- name: '@Hddify'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -223,7 +214,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '@WedBaZTel #3'
+- name: '@WedBaZTel #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
