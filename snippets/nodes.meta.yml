@@ -89,7 +89,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: '@Trick_mobil'
+- name: ⚡Telegram = @SOSkeyNET
   password: 0b8a288c
   port: 65160
   server: 107.174.181.241
@@ -212,14 +212,6 @@ proxies:
   server: 206.71.158.37
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: 🇺🇸/@en_vpn/کانفیگ های بیشتر
-  password: ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12
-  port: 50000
-  server: 208.87.242.163
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #2'
