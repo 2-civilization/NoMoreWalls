@@ -89,7 +89,7 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: ⚡Telegram = @SOSkeyNET
+- name: '@Trick_mobil'
   password: 0b8a288c
   port: 65160
   server: 107.174.181.241
