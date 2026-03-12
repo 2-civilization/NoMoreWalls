@@ -89,6 +89,20 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
+- name: '@Trick_mobil'
+  password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
+  port: 1743
+  server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
+  skip-cert-verify: true
+  sni: 🔒
+  tls: false
+  type: hysteria2
+- name: '@Trick_mobil #1'
+  password: 5046SHWqk6
+  port: 844
+  server: 91.132.51.160
+  tls: false
+  type: hysteria2
 - name: 美国2
   password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
   port: 2056
@@ -110,6 +124,14 @@ proxies:
   port: 13778
   server: jp7.dexlos.com
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: '@Trick_mobil #5'
+  password: Telegram-->@Ln2Ray
+  port: 45000
+  server: 206.71.158.23
+  skip-cert-verify: true
+  sni: 🔒
   tls: false
   type: hysteria2
 - name: DE
@@ -170,6 +192,16 @@ proxies:
   server: tw.oomz.ru
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: ⚡Telegram = @SOSkeyNET
+  obfs: salamander
+  obfs-password: pGBT2RES32Gr7S8DQx
+  password: 00a40f88-0900-4c29-9555-cf053a23071b
+  port: 11801
+  server: 167.86.100.40
+  skip-cert-verify: true
+  sni: 167.86.100.40
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -242,14 +274,6 @@ proxies:
   server: 77.90.41.197
   skip-cert-verify: true
   sni: api.kermanshahi.org
-  tls: false
-  type: hysteria2
-- name: 🌼13@oneclickvpnkeys
-  password: hysteria2_fastlane_qdx4o19um
-  port: 443
-  server: 150.241.79.106
-  skip-cert-verify: true
-  sni: de2.h.fastlanehosting.ru
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
