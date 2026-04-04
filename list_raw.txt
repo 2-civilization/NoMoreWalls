@@ -93,12 +93,12 @@ https://walless:275728c9-07a2-4f21-807f-4e2189f02929@4-nas8bs9e6.mix.dexiansheng
 https://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@0381022d-tcxds0-tdt3k0-jx5r.de.oshuawei.com:443
 https://3ee091ca-ab9c-11ef-a791-f23c9164ca5d:3ee091ca-ab9c-11ef-a791-f23c9164ca5d@d0921ded-tcz8g0-teei0c-1ryup.de.oshuawei.com:443
 vless://b605b776-b676-430e-8957-00f1e0166bee@vleesvpn-app-nl01.gw-vpn.click:443?allowInsecure=0&sni=plus.im&flow=xtls-rprx-vision-udp443&fp=random&security=tls#US_speednode_0072
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;j.setAttribute('nonce',
-<a href="https://about.gitlab.com">About GitLab</a>
+<script src="https://cdn.cookielaw.org/consent/7f944245-c5cd-4eed-a90e-dd955adfdd08/OtAutoBlock.js" defer="defer" nonce="MOlltdZuk0KvECySIa52Bw=="></script>
 <link crossorigin="" href="https://snowplowprd.trx.gitlab.net" rel="preconnect">
-  json.setAttribute('src', 'https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location/geofeed');
-<script src="https://cdn.cookielaw.org/consent/7f944245-c5cd-4eed-a90e-dd955adfdd08/OtAutoBlock.js" defer="defer" nonce="QwjwZIZOCNaLnniqj4MXdA=="></script>
-oneTrustScript.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJXWQL"
-<a target="_blank" class="text-nowrap" rel="noopener noreferrer" href="https://forum.gitlab.com">GitLab community forum</a>
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.com/users/sign_in";
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;j.setAttribute('nonce',
+oneTrustScript.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
+<a href="https://about.gitlab.com">About GitLab</a>
+<a target="_blank" class="text-nowrap" rel="noopener noreferrer" href="https://forum.gitlab.com">GitLab community forum</a>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJXWQL"
+  json.setAttribute('src', 'https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location/geofeed');
