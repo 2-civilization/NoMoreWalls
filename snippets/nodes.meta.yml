@@ -106,6 +106,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: 🪺1@oneclickvpnkeys
+  password: 7151e6b8-0d8e-4548-a9f2-af52ccc2cdfe
+  port: 4433
+  server: 89.23.107.251
+  skip-cert-verify: true
+  sni: nl1.xiaoliyu.cyou
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
