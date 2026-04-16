@@ -8,42 +8,12 @@ proxies:
   tls: false
   type: vmess
   uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-- name: 🇭🇰 香港3|@ripaojiedian
-  password: 868ecdaf6aed618ec98cf78585672b2b
-  port: 52687
-  server: 54.46.54.246
-  skip-cert-verify: false
-  sni: www.nintendogames.net
-  type: trojan
-- name: 🇭🇰 香港4|@ripaojiedian
-  password: BxceQaOe
-  port: 6313
-  server: 54.199.28.140
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-- name: 🇭🇰 香港5|@ripaojiedian
-  password: BxceQaOe
-  port: 6313
-  server: 54.65.154.235
-  skip-cert-verify: true
-  sni: t.me%2Fripaojiedian
-  type: trojan
-- alterId: 2
-  cipher: auto
-  name: 香港|@ripaojiedian
-  network: tcp
-  port: '30807'
-  server: v10.hdacd.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - name: 香港3|@ripaojiedian
   network: tcp
   password: 868ecdaf6aed618ec98cf78585672b2b
   port: 52687
   server: 95.40.85.50
+  skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 香港4|@ripaojiedian
@@ -62,6 +32,16 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+- alterId: 2
+  cipher: auto
+  name: 香港|@ripaojiedian
+  network: tcp
+  port: '30807'
+  server: v10.hdacd.com
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
 - client-fingerprint: chrome
   name: HK_speednode_0004
   network: ws
