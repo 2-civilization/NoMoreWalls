@@ -105,7 +105,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: ترکیبی | @vpnbaz
+- name: '@i10VPN - Psiphon 46'
   password: DBUklcvOyH
   port: 443
   server: 45.81.19.251
