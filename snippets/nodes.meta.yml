@@ -89,7 +89,15 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
-- name: '@appsooner کانال تلگرام 🕊️'
+- name: 👉🆔@v2ray_configs_pool📡🇯🇵®️Japa...
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 116.206.92.109
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
+- name: '@Proxy_Vpney v+p (4)'
   password: DBUklcvOyH
   port: 443
   server: 45.81.19.251
