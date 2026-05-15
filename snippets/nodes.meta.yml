@@ -89,6 +89,16 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
+- name: '@B2vasl1'
+  obfs: salamander
+  obfs-password: kish-data-center
+  password: 9P5zfc7S0s
+  port: 443
+  server: srm.kishonline.online
+  skip-cert-verify: false
+  sni: srm.kishonline.online
+  tls: false
+  type: hysteria2
 - name: '@Proxy_Vpney v+p (4)'
   password: DBUklcvOyH
   port: 443
