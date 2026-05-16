@@ -105,14 +105,6 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: 🇮🇳IN_@WangCai_8
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 13.201.41.222
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
 - name: '🇯🇵JP_@WangCai_8 #2'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
@@ -129,22 +121,6 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: 🇸🇬SG_@WangCai_8
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 13.250.58.52
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG_@WangCai_8 #1'
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 18.143.102.14
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
 - name: '🇯🇵JP_@WangCai_8 #4'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
@@ -153,7 +129,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: '🇮🇳IN_@WangCai_8 #1'
+- name: 🇮🇳IN_@WangCai_8
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 43.205.214.214
@@ -161,7 +137,7 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: '🇮🇳IN_@WangCai_8 #2'
+- name: '🇮🇳IN_@WangCai_8 #1'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 43.205.231.160
@@ -169,26 +145,10 @@ proxies:
   sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
-- name: '🇮🇳IN_@WangCai_8 #3'
+- name: '🇮🇳IN_@WangCai_8 #2'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: 43.205.254.42
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG_@WangCai_8 #2'
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 47.128.219.180
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG_@WangCai_8 #3'
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 54.169.215.241
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
