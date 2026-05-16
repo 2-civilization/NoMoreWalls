@@ -92,7 +92,7 @@ proxies:
 - name: 🇮🇳IN_@WangCai_8
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
-  server: 13.127.34.84
+  server: 13.201.25.203
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
@@ -100,15 +100,7 @@ proxies:
 - name: '🇮🇳IN_@WangCai_8 #1'
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
-  server: 13.201.25.203
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: '🇮🇳IN_@WangCai_8 #2'
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 65.0.182.133
+  server: 13.201.41.222
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
