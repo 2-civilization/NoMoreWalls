@@ -9,3 +9,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🇩🇪39191 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: MasirSefid
+  password: MasirSefid
+  port: 443
+  server: 18.194.55.17
+  skip-cert-verify: false
+  sni: qs.masir-sefid.shop
+  tls: false
+  type: hysteria2
