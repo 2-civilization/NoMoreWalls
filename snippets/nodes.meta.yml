@@ -99,6 +99,16 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: IPv4.@Vasl_b
+  obfs: salamander
+  obfs-password: OzJ10Bk1Z9MfaTDFAgDX0HldGsMiI7C2
+  password: t8667063839
+  port: 443
+  server: vids.jibijij.top
+  skip-cert-verify: true
+  sni: bts.com
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
