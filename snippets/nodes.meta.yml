@@ -149,7 +149,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '@internet_azad_2026🇩🇪 #3'
+- name: '⚡@V2ray_official #1'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -169,7 +169,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: telegram @mtmvpn
+- name: '⚡@V2ray_official #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -219,7 +219,7 @@ proxies:
   sni: free.masir-sefid-1.my
   tls: false
   type: hysteria2
-- name: ⚡@V2ray_official
+- name: '⚡@V2ray_official #3'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -229,7 +229,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #1'
+- name: '⚡@V2ray_official #4'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -239,7 +239,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #2'
+- name: '⚡@V2ray_official #5'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -249,7 +249,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #3'
+- name: '⚡@V2ray_official #6'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -259,7 +259,7 @@ proxies:
   sni: masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '⚡@V2ray_official #4'
+- name: '⚡@V2ray_official #7'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -327,16 +327,6 @@ proxies:
   server: 18.194.63.255
   skip-cert-verify: false
   sni: content.masir-sefid.shop
-  tls: false
-  type: hysteria2
-- name: 🇳🇱51381 | ⚡️Telegram = t.me/SO...
-  obfs: salamander
-  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
-  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
-  port: 443
-  server: hy2.aspidnet.xyz
-  skip-cert-verify: false
-  sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
 - name: ♾️40@oneclickvpnkeys
