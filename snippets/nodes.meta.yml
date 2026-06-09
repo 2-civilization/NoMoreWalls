@@ -120,7 +120,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 🇭🇰58435 | ⚡️Telegram = t.me/SO...
+- name: 🇭🇰 HK
   password: a305ac08-d136-11ee-b6db-f23c91cfbbc9
   port: 443
   server: ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com
@@ -164,17 +164,41 @@ proxies:
   tls: false
   type: hysteria2
 - alpn:
-  - h2
-  - http/1.1
   - h3
+  - http/1.1
+  - h2
   fingerprint: chrome
-  name: 🇫🇮58543 | ⚡️Telegram = t.me/SO...
+  name: '@GozargahAzad|🇺🇸'
   obfs: salamander
-  obfs-password: 3y1p0k44cwzaa3zd
-  password: 2czgzikbgor99ad2
-  port: 33120
-  server: markazi.kidshop.dpdns.org
+  obfs-password: dlxmzvxvcp3i6v0e
+  password: 5z15av99psrlhdqp
+  port: 39150
+  server: 32.195.51.20
   sni: ''
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  - http/1.1
+  - h2
+  fingerprint: chrome
+  name: 🇺🇸59409 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: dlxmzvxvcp3i6v0e
+  password: 5z15av99psrlhdqp
+  port: 39150
+  server: 32.195.51.20
+  sni: 32.195.51.20
+  tls: false
+  type: hysteria2
+- name: '@filembad'
+  obfs: salamander
+  obfs-password: dlxmzvxvcp3i6v0e
+  password: 5z15av99psrlhdqp
+  port: 39150
+  server: 32.195.51.20
+  skip-cert-verify: false
+  sni: 32.195.51.20
   tls: false
   type: hysteria2
 - name: برای اتصال دائمی جوین شو🏵 Tele...
@@ -257,7 +281,7 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: ✅  @vistav2ray  👈👈کانال ما ✅
+- name: ⚡@V2ray_official
   obfs: salamander
   obfs-password: Masir_Sefid
   password: Masir_Sefid
@@ -287,6 +311,16 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
+- name: 🔰@V2ray_official
+  obfs: salamander
+  obfs-password: ao5xmpi6qiedxrs2
+  password: Vitamini_Channel
+  port: 59095
+  server: cdn.accuratenetworkchecker.ir
+  skip-cert-verify: true
+  sni: cdn.accuratenetworkchecker.ir
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -307,7 +341,18 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '✅  @vistav2ray  👈👈کانال ما ✅ #1'
+- alpn:
+  - h3
+  name: 🇫🇮59347 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: kpj8ac1gwtzdfclh
+  password: elczfe1nt42amtjf
+  port: 42641
+  server: markazi.kidshop.dpdns.org
+  sni: markazi.kidshop.dpdns.org
+  tls: false
+  type: hysteria2
+- name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=
   password: f7cb07a0-e6f9-4d22-a60e-c61854450c89
