@@ -7,24 +7,34 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '@GozargahAzad|🇺🇸'
+- name: 🇺🇸75820 | ⚡️Telegram = t.me/SO...
   obfs: salamander
   obfs-password: '@JynMarket'
   password: odnvqb4ihg396e5z
   port: 37025
   server: 104.252.19.102
   skip-cert-verify: false
-  sni: ''
+  sni: 104.252.19.102
   tls: false
   type: hysteria2
-- name: '@GozargahAzad|🇺🇸 #1'
+- name: 🇺🇸75821 | ⚡️Telegram = t.me/SO...
+  obfs: salamander
+  obfs-password: '@JynMarket'
+  password: odnvqb4ihg396e5z
+  port: 51554
+  server: 104.252.19.102
+  skip-cert-verify: false
+  sni: 104.252.19.102
+  tls: false
+  type: hysteria2
+- name: 🇺🇸75819 | ⚡️Telegram = t.me/SO...
   obfs: salamander
   obfs-password: '@JynMarket'
   password: odnvqb4ihg396e5z
   port: 54040
   server: 104.252.19.102
   skip-cert-verify: false
-  sni: ''
+  sni: 104.252.19.102
   tls: false
   type: hysteria2
 - name: 美国|@ripaojiedian
