@@ -252,6 +252,20 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
+- name: ✈️5@oneclickvpnkeys
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 3.66.236.81
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: ✈️11@oneclickvpnkeys
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 3.79.47.137
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
