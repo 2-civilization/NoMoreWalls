@@ -162,6 +162,15 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
+- name: 🇩🇪@V2RayyNGvpn 🇩🇪
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: ARcwPE0cvU
+  port: 443
+  server: 185.250.41.245
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام'
   obfs: salamander
   obfs-password: EsimObfs_9mK2x7
@@ -267,7 +276,7 @@ proxies:
   sni: connect-ger2.gadmap.online
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn 🇩🇪 #1'
+- name: '🇩🇪@V2RayyNGvpn 🇩🇪 #2'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: cFihfSrWtH
@@ -296,16 +305,6 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: '@meliproxyy #1'
-  obfs: salamander
-  obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
-  password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
-  port: 443
-  server: hy2.aspidnet.xyz
-  skip-cert-verify: false
-  sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
 - name: 🦀53@oneclickvpnkeys
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
@@ -313,7 +312,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn 🇩🇪 #2'
+- name: '🇩🇪@V2RayyNGvpn 🇩🇪 #3'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: rQRuZ8nFbC
