@@ -162,15 +162,6 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 🇩🇪@V2RayyNGvpn 🇩🇪
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: ARcwPE0cvU
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 🦀94@oneclickvpnkeys
   obfs: salamander
   obfs-password: EsimObfs_9mK2x7
@@ -210,6 +201,15 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
+- name: 🇩🇪@V2RayyNGvpn🇩🇪 ⛔برنامه V2Ray...
+  obfs: salamander
+  obfs-password: T.me/V2RayyNGvpn
+  password: V2RayyNGvpn
+  port: 443
+  server: 185.250.41.245
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -240,15 +240,6 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 🇩🇪@V2RayyNGvpn 🇩🇪 ⛔برنامه V2Ra...
-  obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: a2d6ZPXIID
-  port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: '@KAFING_2 #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -276,7 +267,7 @@ proxies:
   sni: connect-ger2.gadmap.online
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn 🇩🇪 #2'
+- name: telegram @mtmvpn
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: cFihfSrWtH
@@ -302,7 +293,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '🇩🇪@V2RayyNGvpn 🇩🇪 #3'
+- name: 'telegram @mtmvpn #2'
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: rQRuZ8nFbC
