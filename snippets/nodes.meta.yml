@@ -130,35 +130,11 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 🇰🇷KR_@WangCai_8
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 13.125.209.199
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
 - name: 🏇63@NetFlowTools
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 13.231.108.76
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '🇰🇷KR_@WangCai_8 #1'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 3.34.49.205
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: 🇸🇬SG_@WangCai_8
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 56.10.11.159
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
   tls: false
   type: hysteria2
 - name: DE
@@ -334,20 +310,20 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 🇫🇮فنلاند 🇫🇮
+- name: 2🇩🇪آلمان اوشاخلاری 🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: t-me-V2RayyNGvpn
   port: 443
-  server: 65.109.177.191
+  server: 143.14.59.229
   skip-cert-verify: true
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 🇫🇮@FreakConfig
+- name: 🇫🇮فنلاند 🇫🇮
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
-  password: t-me-v2rayyngvpn
+  password: t-me-V2RayyNGvpn
   port: 443
   server: 65.109.177.191
   skip-cert-verify: true
