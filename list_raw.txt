@@ -23,6 +23,7 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443?insecure=1&sni=vpn-sg-001
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.165.76:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%8770%40NetFlowTools
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.131.248.82:443?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%8F%8769%40NetFlowTools
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?insecure=0&sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85%20%231
+hysteria2://653m8mmiy7048p0f@2.26.49.16:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%F0%9F%92%9918%40oneclickvpnkeys
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#%F0%9F%A9%B5%2B%40Azarakhsh_Proxy%2B%F0%9F%A9%B7
 hysteria2://V2RayyNgvpn@65.109.177.191:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20MTMVPN
 hysteria2://V2rayyNGvpn@65.20.114.95:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-v2rayyngvpn#%F0%9F%87%B8%F0%9F%87%AASweeden%20%F0%9F%87%B8%F0%9F%87%AA2
