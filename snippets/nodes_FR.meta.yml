@@ -1,11 +1,9 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  name: 庆祝世界反法西斯战争胜利80周年！
-  network: tcp
-  port: '3'
-  server: 0.0.0.0
-  servername: web.51.la
-  tls: false
-  type: vmess
-  uuid: 88888888-8888-8888-8888-888888888888
+- name: FR_speednode_0004
+  password: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
+  port: 443
+  server: fe01bdcc-t9zts0-tan99f-1rdqg.fr.oshuawei.com
+  tls: true
+  type: http
+  udp: true
+  username: 2b57ec48-0da4-11ef-8f35-f23c913c8d2b
