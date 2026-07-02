@@ -115,15 +115,7 @@ proxies:
 - name: 🇸🇬SG_@WangCai_8
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
-  server: 13.229.51.19
-  skip-cert-verify: true
-  sni: https://t.me/WangCai2🇨🇳
-  tls: false
-  type: hysteria2
-- name: '🇸🇬SG_@WangCai_8 #1'
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 54.179.149.169
+  server: 47.129.160.62
   skip-cert-verify: true
   sni: https://t.me/WangCai2🇨🇳
   tls: false
@@ -176,20 +168,6 @@ proxies:
   sni: fta.fontanvpn.com
   tls: false
   type: hysteria2
-- alpn:
-  - h2
-  - http/1.1
-  - h3
-  fingerprint: chrome
-  name: best_internet_iran
-  obfs: salamander
-  obfs-password: 4u5lx2ldqk5oeo7y
-  password: 5xsgx28bxlhd7oc4
-  port: 38787
-  server: rx.easyiran.org
-  sni: rx.easyiran.org
-  tls: false
-  type: hysteria2
 - name: ♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️432🌐...
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
@@ -198,15 +176,6 @@ proxies:
   server: 2.26.49.16
   skip-cert-verify: false
   sni: social.klipp.su
-  tls: false
-  type: hysteria2
-- name: 💙95@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: lhfl2z9mjngb7csh
-  password: 653m8mmiy7048p0f
-  port: 1935
-  server: nrealistic.nn-foto.ru
-  sni: nrealistic.nn-foto.ru
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -282,7 +251,7 @@ proxies:
   sni: ger1.riziro.ir
   tls: false
   type: hysteria2
-- name: '@prrofile_purple  ♥️👈 تلگرام #1'
+- name: 'تلگرام : MTMVPN'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -312,6 +281,14 @@ proxies:
   server: 80.66.81.78
   skip-cert-verify: false
   sni: tunel1.washing.help
+  tls: false
+  type: hysteria2
+- name: 🇩🇪@V2raybazi
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: https://www.calmloud.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
