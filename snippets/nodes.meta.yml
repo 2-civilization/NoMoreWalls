@@ -218,6 +218,13 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🏠42@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 13377
+  server: www.838491.xyz
+  sni: www.838491.xyz
+  tls: false
+  type: hysteria2
 - name: telegram @mtmvpn
   obfs: salamander
   obfs-password: 2a7e8084206388f4

@@ -23,6 +23,7 @@ hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=s
 hysteria2://V2RayyNgvpn@65.109.177.191:443?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20MTMVPN
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40FreeOnlineVPN
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40KAFING_2%20%232
+hysteria2://dongtaiwang.com@www.838491.xyz:13377?sni=www.838491.xyz#%F0%9F%8F%A042%40oneclickvpnkeys
 hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?insecure=0&sni=gettestin.xxee.ru&obfs=salamander&obfs-password=2a7e8084206388f4#telegram%20%40mtmvpn
 hysteria2://hk6ah4vgb0qp2koh@ger1.riziro.ir:2087?alpn=h2%2Ch3&fp=chrome&sni=ger1.riziro.ir&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%92%8Ehysteria2-%40hollowcon
 hysteria2://hk6ah4vgb0qp2koh@panel.riziro.ir:4526?alpn=h3&fp=chrome&sni=ger1.riziro.ir#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%92%8Ehysteria-%40hollowcon
