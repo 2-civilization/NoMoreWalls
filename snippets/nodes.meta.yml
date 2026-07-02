@@ -169,7 +169,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 🇫🇮FI-🚀@VPNine1
+- name: ⛳86@oneclickvpnkeys
   password: 00dcd873-9211-4d61-ad35-87999906e5c8
   port: 443
   server: 185.75.135.220
@@ -312,16 +312,6 @@ proxies:
   server: 80.66.81.78
   skip-cert-verify: false
   sni: tunel1.washing.help
-  tls: false
-  type: hysteria2
-- name: '@filembad'
-  obfs: salamander
-  obfs-password: 60wvbymjlc9zw3gk
-  password: zru63dr6vokx56iy
-  port: 52067
-  server: tr-1.metsima.com
-  skip-cert-verify: false
-  sni: tr-1.metsima.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
