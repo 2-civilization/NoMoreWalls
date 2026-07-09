@@ -163,42 +163,10 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 5🎲@v2ray_configs_pools
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 45.196.182.181
-  skip-cert-verify: true
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
 - name: 💡60@oneclickvpnkeys
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.190
-  skip-cert-verify: true
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
-- name: 🇺🇸104400 | ⚡️Telegram = t.me/v...
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 45.196.182.194
-  skip-cert-verify: true
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
-- name: 🇺🇸104402 | ⚡️Telegram = t.me/v...
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 45.196.182.197
-  skip-cert-verify: true
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
-- name: 🇺🇸104398 | ⚡️Telegram = t.me/v...
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 45.196.182.201
   skip-cert-verify: true
   sni: sni.fi-m247-02.com
   tls: false
@@ -211,34 +179,10 @@ proxies:
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
-- name: 🇺🇸104399 | ⚡️Telegram = t.me/v...
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 45.196.182.220
-  skip-cert-verify: true
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
 - name: 💡58@oneclickvpnkeys
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 45.196.182.241
-  skip-cert-verify: true
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
-- name: 🇺🇸104397 | ⚡️Telegram = t.me/v...
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 45.196.182.254
-  skip-cert-verify: true
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
-- name: 🇫🇮104396 | ⚡️Telegram = t.me/v...
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 66.234.150.227
   skip-cert-verify: true
   sni: sni.fi-m247-02.com
   tls: false
@@ -261,22 +205,6 @@ proxies:
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
   server: 66.234.150.246
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
-- name: 🇫🇮104403 | ⚡️Telegram = t.me/v...
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 66.234.150.250
-  skip-cert-verify: true
-  sni: sni.fi-m247-02.com
-  tls: false
-  type: hysteria2
-- name: 🇫🇮104401 | ⚡️Telegram = t.me/v...
-  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
-  port: 8449
-  server: 66.234.150.254
-  skip-cert-verify: true
   sni: sni.fi-m247-02.com
   tls: false
   type: hysteria2
@@ -309,6 +237,13 @@ proxies:
   server: 2.26.49.16
   skip-cert-verify: false
   sni: social.klipp.su
+  tls: false
+  type: hysteria2
+- name: 🇸🇪SE-🚀@VPNine1
+  password: 837e9ea2-cf0b-46a1-93a8-7e25c3a4066c
+  port: 443
+  server: 31.77.144.133
+  sni: argg9.auragg.org
   tls: false
   type: hysteria2
 - name: 💡50@oneclickvpnkeys
@@ -430,13 +365,6 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 🇳🇱NL-🚀@VPNine1
-  password: LzMWgm6LaNWCm11bFTbynDPq2TqQj03t
-  port: 443
-  server: 5.255.102.165
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -487,6 +415,14 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🇬🇧GB-🚀@VPNine1
+  password: hy2_lositfbu
+  port: 443
+  server: 144.31.213.121
+  skip-cert-verify: true
+  sni: gb.cleanersaz.help
+  tls: false
+  type: hysteria2
 - name: 🎍7@oneclickvpnkeys
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -529,6 +465,16 @@ proxies:
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: w1BoB6s3L3
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: '🇩🇪@V2RayyNGvpn #2'
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: y4nJ8poIsh
   port: 40460
   server: 91.107.152.188
   skip-cert-verify: true
