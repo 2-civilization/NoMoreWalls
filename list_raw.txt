@@ -18,7 +18,6 @@ hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sn
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#TW
 hysteria2://58cb3fdyZN@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%20t-me-V2RayyNGvpn%20%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://653m8mmiy7048p0f@2.26.49.16:443?insecure=0&sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%E2%99%BE%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%F0%9F%86%94%EF%B8%8F%40ATLAS_V2VPN%F0%9F%86%93%EF%B8%8F%F0%9F%9B%9C%F0%9F%94%B7%EF%B8%8F432%F0%9F%8C%90...
-hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#%40GozargahAzad%7C%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?insecure=0&sni=qg.easyiran.org&obfs=salamander&obfs-password=ngljeqgna3hmfr2s#%F0%9F%87%A9%F0%9F%87%AA%40V2rayng_Fast
 hysteria2://Dd8FfJSif0@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#t-me-V2RayyNGvpn%F0%9F%8E%96%EF%B8%8F
 hysteria2://KYFundefinedZYs4KB@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
