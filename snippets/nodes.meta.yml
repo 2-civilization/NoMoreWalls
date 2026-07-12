@@ -191,6 +191,16 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 🇩🇪108906 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: JxCHTtg2gX
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: '@V2RayyNGvpn🇩🇪'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -219,6 +229,15 @@ proxies:
   server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪108966 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: pqvmx29fokvh8ubb
+  password: TELEgRAM-ID-conf0088
+  port: 2053
+  server: cuetara.name.cuetara.name
+  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام'
@@ -322,7 +341,7 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 🇳🇱108880 | ⚡️Telegram = t.me/S...
+- name: '🇳🇱108880 | ⚡️Telegram = t.me/S... #1'
   obfs: salamander
   obfs-password: lhfl2z9mjngb7csh
   password: eltgrek81o6w5cd4
