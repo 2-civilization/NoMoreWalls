@@ -37,10 +37,10 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: ⭕T.Me=irconfiig🇩🇪
+- name: '@Surfboardv2ray'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
-  password: IoFmkhjUlE
+  password: M4q4riAk3C
   port: 31999
   server: 91.107.152.188
   skip-cert-verify: true
@@ -63,16 +63,6 @@ proxies:
   password: VpxzokH9V4
   port: 25810
   server: 91.107.174.32
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: '@AzarAndoozVPNbot #3'
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: ZkaDQncyundefineda
-  port: 31999
-  server: 91.107.152.188
   skip-cert-verify: true
   sni: www.amd.com
   tls: false
