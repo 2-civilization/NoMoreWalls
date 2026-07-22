@@ -321,13 +321,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇺🇸118244 | ⚡️Telegram = t.me/S...
-  password: bce6c821-200d-421f-bf3d-7159e5246ea0
-  port: 33333
-  server: 155.248.209.237
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: '@FarazV2ray'
   obfs: salamander
   obfs-password: ielzukpwth087afx
