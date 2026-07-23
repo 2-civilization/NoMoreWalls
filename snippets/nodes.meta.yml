@@ -153,14 +153,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: ♨️65@oneclickvpnkeys
-  password: 18cf8030-1ceb-4b7d-8c0c-c036413c144e
-  port: 4433
-  server: 202.61.205.86
-  skip-cert-verify: true
-  sni: de1.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
 - name: 🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -255,32 +247,12 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 🇳🇱@V2RayyNGvpn کانال ما  🇳🇱
-  obfs: salamander
-  obfs-password: Telegram=V2RayyNGvpn
-  password: Pld6E6l8xI
-  port: 19978
-  server: 51.15.110.119
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
 - name: 🇩🇪 کانال ما @V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: RSGabzHJGl
   port: 31999
   server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: '@mehrosaboran'
-  obfs: salamander
-  obfs-password: T-ME-V2RayyNGvpn
-  password: UUoAsk2eM4
-  port: 25810
-  server: 91.107.174.32
   skip-cert-verify: true
   sni: www.amd.com
   tls: false
@@ -393,6 +365,13 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
+- name: 📪81@oneclickvpnkeys
+  password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
+  port: 8443
+  server: 185.90.61.28
+  sni: hopp-legend-se.roxa.org
+  tls: false
+  type: hysteria2
 - name: Telegram=V2RayyNGvpn🇨🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -401,13 +380,6 @@ proxies:
   server: 51.159.137.79
   skip-cert-verify: true
   sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: ♨️89@oneclickvpnkeys
-  password: oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1
-  port: 8443
-  server: 45.154.206.72
-  sni: russiapower.accesscam.org
   tls: false
   type: hysteria2
 - name: MTMVPN 🇩🇪
