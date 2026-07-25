@@ -17,7 +17,17 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇩🇪121395 | ⚡️Telegram = t.me/S...
+- name: 🇩🇪 Telegram = V2RayyNGvpn 2🇩🇪
+  obfs: salamander
+  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
+  password: T-me-V2RayyNGvpn
+  port: 443
+  server: 91.107.178.22
+  skip-cert-verify: true
+  sni: www.refersion.com
+  tls: false
+  type: hysteria2
+- name: 🇩🇪 Telegram = irconfiig 🇩🇪
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
   password: V2RayyNGvpn
