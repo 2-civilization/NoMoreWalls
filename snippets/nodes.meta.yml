@@ -174,32 +174,12 @@ proxies:
   sni: ppl.myispace.xyz
   tls: false
   type: hysteria2
-- name: 🇫🇮FI-🚀@VPNine1
-  obfs: salamander
-  obfs-password: l960g2kn19nphlra
-  password: 4z2oldt85p494bgb
-  port: 52060
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: '@meliproxyy'
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
   password: 4z2oldt85p494bgb
   port: 52061
   server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '🇫🇮122132 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: l960g2kn19nphlra
-  password: 4z2oldt85p494bgb
-  port: 52060
-  server: soskeynets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
@@ -483,7 +463,7 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: 🇷🇺122112 | ⚡️Telegram = t.me/S...
+- name: '@meliproxyy #2'
   obfs: salamander
   obfs-password: oMgvuBy5Lj5kYM57sGsnjpjNcSEQ
   password: rs2mR3g9bZiMloftx6lZQ59Um1Ld
