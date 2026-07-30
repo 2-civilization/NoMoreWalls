@@ -9,13 +9,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🦄35@oneclickvpnkeys
-  password: 042a1881-44e4-4781-bd40-bf75164faf4f
-  port: 443
-  server: 178.215.238.30
-  sni: germany1.noesissite.ru
-  tls: false
-  type: hysteria2
 - name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪3
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
@@ -36,7 +29,7 @@ proxies:
   sni: www.refersion.com
   tls: false
   type: hysteria2
-- name: 🇩🇪@V2RayyNGvpn🇩🇪
+- name: 🇩🇪 t.me.V2RayyNGvpn 🇩🇪
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: EaDTeupk9I

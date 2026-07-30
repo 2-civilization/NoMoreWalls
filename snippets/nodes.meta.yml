@@ -137,36 +137,12 @@ proxies:
   sni: usp.noesissite.ru
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 🇫🇮FI-🚀@VPNine1
-  obfs: salamander
-  obfs-password: w0tx1ju9iix6913p
-  password: 0puq3lmwv7qtp76t
-  port: 52034
-  server: assets.gateway-stream.com
-  skip-cert-verify: true
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 🇫🇮@V2rayng_Fast
   obfs: salamander
   obfs-password: w0tx1ju9iix6913p
   password: 0puq3lmwv7qtp76t
   port: 52034
   server: assets.gateway-stream.com
-  skip-cert-verify: true
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '🇫🇮127175 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: w0tx1ju9iix6913p
-  password: 0puq3lmwv7qtp76t
-  port: 52034
-  server: soskeynets.gateway-stream.com
   skip-cert-verify: true
   sni: assets.gateway-stream.com
   tls: false
@@ -208,16 +184,6 @@ proxies:
   sni: www.refersion.com
   tls: false
   type: hysteria2
-- name: 🇫🇮127243 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: mtg2vchyir6la3et
-  password: 4z2oldt85p494bgb
-  port: 52021
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: '@erfanandroid'
   obfs: salamander
   obfs-password: iknjsvsjagi449mm
@@ -238,22 +204,12 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: برای اتصال دائمی جوین شو🍘 Tele...
+- name: Tel-@irconfiig🛞 6
   obfs: salamander
   obfs-password: fd3olglr2bmimgje
   password: 4z2oldt85p494bgb
   port: 52061
   server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '🇫🇮127243 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: mtg2vchyir6la3et
-  password: 4z2oldt85p494bgb
-  port: 52021
-  server: soskeynets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
@@ -334,7 +290,7 @@ proxies:
   sni: vhd.nth.gelzaro.ir
   tls: false
   type: hysteria2
-- name: 🇩🇪@V2RayyNGvpn🇩🇪
+- name: 🇩🇪 t.me.V2RayyNGvpn 🇩🇪
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: EaDTeupk9I
@@ -449,6 +405,13 @@ proxies:
   port: 8433
   server: de1-hy2.veilvpn.life
   sni: de1-hy2.veilvpn.life
+  tls: false
+  type: hysteria2
+- name: 🦄79@oneclickvpnkeys
+  password: dongtaiwang.com
+  port: 44356
+  server: 142.249.37.90
+  sni: hy2.561891.xyz
   tls: false
   type: hysteria2
 - name: 🐰56@oneclickvpnkeys
