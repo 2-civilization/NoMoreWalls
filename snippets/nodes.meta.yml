@@ -267,16 +267,6 @@ proxies:
   sni: vhd.nth.gelzaro.ir
   tls: false
   type: hysteria2
-- name: 🇩🇪 t.me.V2RayyNGvpn 🇩🇪
-  obfs: salamander
-  obfs-password: V2RayyNGvpn
-  password: EaDTeupk9I
-  port: 43913
-  server: 91.107.178.22
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: France 🇫🇷
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
@@ -342,16 +332,6 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: false
   sni: api.kermanshahi.org@freenettir
-  tls: false
-  type: hysteria2
-- name: 🇩🇪 t- me - V2RayyNGvpn 🇩🇪
-  obfs: salamander
-  obfs-password: V2RayyNGvpn
-  password: c8L7Asi4ur
-  port: 43913
-  server: 91.107.178.22
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 🦄79@oneclickvpnkeys
