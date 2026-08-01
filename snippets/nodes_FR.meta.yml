@@ -1,12 +1,4 @@
 proxies:
-- name: France 🇫🇷
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: vpn-fr-002.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-fr-002.fastervpn.world
-  tls: false
-  type: hysteria2
 - client-fingerprint: chrome
   name: FR_speednode_0012
   network: tcp
