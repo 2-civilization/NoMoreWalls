@@ -123,6 +123,16 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🇮🇹130036 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: dnwx30hvcobf7xcf
+  password: 0ansucp5k6aop125
+  port: 32950
+  server: 185.47.172.226
+  skip-cert-verify: false
+  sni: 185.47.172.226
+  tls: false
+  type: hysteria2
 - name: '@Daily_Configs'
   obfs: salamander
   obfs-password: w0tx1ju9iix6913p
@@ -143,7 +153,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇷🇺129828 | ⚡️Telegram = t.me/S...
+- name: 4👁️‍🗨️@oneclickvpnkeys
   obfs: salamander
   obfs-password: 6fb01f11e04c0e33c9b62e64bfeb4c10
   password: 5e1a0806-8be7-44e9-966d-517541307fbd
@@ -160,28 +170,14 @@ proxies:
   sni: wopa7.api3-max.ru
   tls: false
   type: hysteria2
-- name: 🇹🇷129827 | ⚡️Telegram = t.me/S...
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: soskeynets.api3-max.ru
-  sni: taga2.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: 🇹🇷129826 | ⚡️Telegram = t.me/S...
-  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
-  port: 443
-  server: soskeynets.api3-max.ru
-  sni: taga3.api3-max.ru
-  tls: false
-  type: hysteria2
-- name: '🇹🇷129827 | ⚡️Telegram = t.me/S... #1'
+- name: 3👁️‍🗨️@oneclickvpnkeys
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
   server: taga2.api3-max.ru
   sni: taga2.api3-max.ru
   tls: false
   type: hysteria2
-- name: '🇹🇷129826 | ⚡️Telegram = t.me/S... #1'
+- name: 1👁️‍🗨️@oneclickvpnkeys
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
   server: taga3.api3-max.ru
@@ -263,34 +259,12 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '🇫🇮FI-🚀@VPNine1 #1'
+  name: '@filembad #1'
   obfs: salamander
   obfs-password: t72hzzenktxmrvgu
   password: 76kyzc055ahiyfzy
   port: 52024
   server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '🇫🇮FI-🚀@VPNine1 #2'
-  obfs: salamander
-  obfs-password: bs5yf8xwmyqafwy4
-  password: 76kyzc055ahiyfzy
-  port: 52064
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '🇫🇮129809 | ⚡️Telegram = t.me/S... #1'
-  obfs: salamander
-  obfs-password: 93lc6r07zfx4crct
-  password: 76kyzc055ahiyfzy
-  port: 52008
-  server: soskeynets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
