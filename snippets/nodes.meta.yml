@@ -123,16 +123,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇮🇹130036 | ⚡️Telegram = t.me/S...
-  obfs: salamander
-  obfs-password: dnwx30hvcobf7xcf
-  password: 0ansucp5k6aop125
-  port: 32950
-  server: 185.47.172.226
-  skip-cert-verify: false
-  sni: 185.47.172.226
-  tls: false
-  type: hysteria2
 - name: '@Daily_Configs'
   obfs: salamander
   obfs-password: w0tx1ju9iix6913p
@@ -379,20 +369,6 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: false
   sni: api.kermanshahi.org@freenettir
-  tls: false
-  type: hysteria2
-- name: 🎒61@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 44356
-  server: 142.249.37.90
-  sni: hy2.561891.xyz
-  tls: false
-  type: hysteria2
-- name: 🎒65@oneclickvpnkeys
-  password: dongtaiwang.com
-  port: 44356
-  server: hy2.561891.xyz
-  sni: hy2.561891.xyz
   tls: false
   type: hysteria2
 - name: '@prrofile_purple  ♥️👈 تلگرام'
