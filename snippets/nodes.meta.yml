@@ -458,7 +458,7 @@ proxies:
   sni: fr2.xiaoliyu.cyou
   tls: false
   type: hysteria2
-- name: 🇳🇱NL-🚀@VPNine1
+- name: '荷兰 #1'
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -775,7 +775,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '@meliproxyy #1'
+- name: https://t.me/AarazV2ray
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
