@@ -563,7 +563,7 @@ proxies:
   sni: www.linux.com
   tls: false
   type: hysteria2
-- name: 🇫🇮137476 | ⚡️Telegram = t.me/S...
+- name: '芬兰 #1'
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8443
   server: 185.79.138.71
@@ -845,6 +845,36 @@ proxies:
   server: 91.107.178.22
   skip-cert-verify: true
   sni: www.refersion.com
+  tls: false
+  type: hysteria2
+- name: '@GozargahAzad|🇫🇮'
+  obfs: salamander
+  obfs-password: t72hzzenktxmrvgu
+  password: kjq3gpn1xom1ted9
+  port: 52024
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: 😇
+  obfs: salamander
+  obfs-password: t72hzzenktxmrvgu
+  password: kjq3gpn1xom1ted9
+  port: 52024
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '🇫🇮137699 | ⚡️Telegram = t.me/S... #1'
+  obfs: salamander
+  obfs-password: t72hzzenktxmrvgu
+  password: kjq3gpn1xom1ted9
+  port: 52024
+  server: soskeynets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: '@Selinc'
