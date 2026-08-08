@@ -7,7 +7,7 @@ proxies:
   sni: www.lamer.com.hk
   tls: false
   type: hysteria2
-- name: 🧅29@oneclickvpnkeys
+- name: '法国 #1'
   obfs: salamander
   obfs-password: T@T*FP7uq=!t
   password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
@@ -15,5 +15,12 @@ proxies:
   server: fr2.xiaoliyu.cyou
   skip-cert-verify: true
   sni: fr2.xiaoliyu.cyou
+  tls: false
+  type: hysteria2
+- name: 🇫🇷@ShadowFlux2👈🦁🌞A2
+  password: kjq3gpn1xom1ted9
+  port: 52030
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
