@@ -13,7 +13,7 @@ proxies:
   sni: de-two.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: 5🪁@oneclickvpnkeys
+- name: '德国 #2'
   password: 71cada65-d23e-418c-88e4-a06188d14689
   port: 443
   server: de-two.quiet-rogue.site
@@ -68,6 +68,16 @@ proxies:
   password: TelegramVPNJey
   port: 37003
   server: 179.61.251.253
+  sni: de.jey.cc.cd
+  tls: false
+  type: hysteria2
+- name: 🤴‼️ TELEGRAM@SHAHSERVER1🪽
+  obfs: salamander
+  obfs-password: 83v9muumcyikh5ch
+  password: TelegramVPNJey
+  port: 37003
+  server: 179.61.251.253
+  skip-cert-verify: false
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
