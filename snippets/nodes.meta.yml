@@ -137,7 +137,7 @@ proxies:
   tls: false
   type: hysteria2
 - fingerprint: chrome
-  name: 🇵🇱PL-🚀@VPNine1
+  name: 🇵🇱140464 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: 1yvnm8sv41
   password: 2b5f7fc3d38f4798a0f62d4ef8876528
@@ -646,29 +646,9 @@ proxies:
   type: hysteria2
 - name: 🇫🇮FI-🚀@VPNine1
   obfs: salamander
-  obfs-password: v8h63irhnay97090
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52029
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #1'
-  obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
   port: 52060
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #2'
-  obfs: salamander
-  obfs-password: fd3olglr2bmimgje
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52061
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -684,6 +664,16 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: '🇫🇮FI-🚀@VPNine1 #1'
+  obfs: salamander
+  obfs-password: zducqb7ro143x0t2
+  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
+  port: 52076
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: پرسرعت مخصوص همه اپراتورها ⚡⛈️
   obfs: salamander
   obfs-password: hmvyfx1tpnz6pp3k
@@ -691,6 +681,14 @@ proxies:
   port: 36896
   server: ptserv.accuratenetworkchecker.ir
   sni: lms22.gelzaro.ir
+  tls: false
+  type: hysteria2
+- name: 1🔖@oneclickvpnkeys
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: vpn-us-003.fastervpn.world
+  skip-cert-verify: true
+  sni: vpn-us-003.fastervpn.world
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -715,7 +713,7 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 🇩🇪@FreakConfig
+- name: kurdconfig
   obfs: salamander
   obfs-password: 83v9muumcyikh5ch
   password: TelegramVPNJey
@@ -779,6 +777,24 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- name: 🇪🇪EE-🚀@VPNine1
+  obfs: salamander
+  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+  password: cd74c0a406664a5bc0bac098220a2468
+  port: 443
+  server: ee2.sferavpn.pro
+  sni: ee2.sferavpn.pro
+  tls: false
+  type: hysteria2
+- name: 🇺🇸US-🚀@VPNine1
+  obfs: salamander
+  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+  password: cd74c0a406664a5bc0bac098220a2468
+  port: 443
+  server: ru1.sferavpn.pro
+  sni: ru1.sferavpn.pro
+  tls: false
+  type: hysteria2
 - name: 🇨🇵
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
@@ -823,51 +839,11 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 'kurdconfig #1'
+- name: '@configprxy'
   obfs: salamander
   obfs-password: p61ckuavkc1s2hfl
   password: kjq3gpn1xom1ted9
   port: 52031
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@FarazV2ray'
-  obfs: salamander
-  obfs-password: dscbu47eev49tv84
-  password: kjq3gpn1xom1ted9
-  port: 52086
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@FarazV2ray #1'
-  obfs: salamander
-  obfs-password: bwgy7ppdoiz448uw
-  password: kjq3gpn1xom1ted9
-  port: 52087
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@FarazV2ray #2'
-  obfs: salamander
-  obfs-password: qfsk2h15o2dm0msi
-  password: kjq3gpn1xom1ted9
-  port: 52088
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '@FarazV2ray #3'
-  obfs: salamander
-  obfs-password: hitar6eeayxd7imh
-  password: kjq3gpn1xom1ted9
-  port: 52089
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -881,16 +857,6 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
-- name: 'kurdconfig #2'
-  obfs: salamander
-  obfs-password: TelEgRam=V2RayyNGvpn
-  password: pjyFpMEKFH
-  port: 443
-  server: 185.253.117.217
-  skip-cert-verify: true
-  sni: www.intel.com
   tls: false
   type: hysteria2
 - alpn:
