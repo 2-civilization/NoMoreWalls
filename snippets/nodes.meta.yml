@@ -136,7 +136,8 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: '波兰 #1'
+- fingerprint: chrome
+  name: 🇵🇱PL-🚀@VPNine1
   obfs: salamander
   obfs-password: 1yvnm8sv41
   password: 2b5f7fc3d38f4798a0f62d4ef8876528
@@ -344,6 +345,14 @@ proxies:
   server: 3.36.89.239
   skip-cert-verify: true
   sni: vpn-kr-003.fastervpn.world
+  tls: false
+  type: hysteria2
+- name: 🇨🇦140465 | ⚡️Telegram = t.me/S...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 99.79.62.65
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '罗马尼亚 #2'
@@ -581,20 +590,12 @@ proxies:
   sni: hopp-legend-se.roxa.org
   tls: false
   type: hysteria2
-- name: 🇺🇸140322 | ⚡️Telegram = t.me/S...
+- name: 🇸🇬140470 | ⚡️Telegram = t.me/S...
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
-  server: 44.251.47.95
+  server: 13.229.106.122
   skip-cert-verify: true
   sni: css.rbxcdn.com
-  tls: false
-  type: hysteria2
-- name: 🇸🇬140318 | ⚡️Telegram = t.me/S...
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 47.129.9.33
-  skip-cert-verify: true
-  sni: vk.com
   tls: false
   type: hysteria2
 - name: 🇺🇸139909 | ⚡️Telegram = t.me/S...
@@ -643,119 +644,33 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: 🇫🇮FI-🚀@VPNine1
+- name: 🇫🇮FI-🚀@VPNine1
   obfs: salamander
-  obfs-password: gu74jg3ym0e21zco
+  obfs-password: v8h63irhnay97090
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52000
-  server: assets.gateway-stream.com
-  sni: ''
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #1'
-  obfs: salamander
-  obfs-password: gu74jg3ym0e21zco
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52000
-  server: assets.gateway-stream.com
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #2'
-  obfs: salamander
-  obfs-password: 527zd9w4nuaccd7g
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52001
-  server: assets.gateway-stream.com
-  sni: ''
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #3'
-  obfs: salamander
-  obfs-password: 527zd9w4nuaccd7g
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52001
-  server: assets.gateway-stream.com
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #4'
-  obfs: salamander
-  obfs-password: ielzukpwth087afx
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52002
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
-- name: '🇫🇮FI-🚀@VPNine1 #5'
-  obfs: salamander
-  obfs-password: ielzukpwth087afx
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52002
+  port: 52029
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #6'
+- name: '🇫🇮FI-🚀@VPNine1 #1'
   obfs: salamander
-  obfs-password: 5xo4v7u2pv8bktvb
+  obfs-password: l960g2kn19nphlra
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52003
+  port: 52060
   server: assets.gateway-stream.com
-  sni: ''
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #7'
-  obfs: salamander
-  obfs-password: 5xo4v7u2pv8bktvb
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52003
-  server: assets.gateway-stream.com
+  skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #8'
+- name: '🇫🇮FI-🚀@VPNine1 #2'
   obfs: salamander
-  obfs-password: mczdcsrottar7v8t
+  obfs-password: fd3olglr2bmimgje
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52004
+  port: 52061
   server: assets.gateway-stream.com
-  sni: ''
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  fingerprint: chrome
-  name: '🇫🇮FI-🚀@VPNine1 #9'
-  obfs: salamander
-  obfs-password: mczdcsrottar7v8t
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52004
-  server: assets.gateway-stream.com
+  skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
