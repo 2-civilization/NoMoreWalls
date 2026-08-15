@@ -190,13 +190,6 @@ proxies:
   sni: 144.225.187.184
   tls: false
   type: hysteria2
-- name: 英国
-  password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
-  port: 443
-  server: ang.leontunel.ru
-  sni: ang.leontunel.ru
-  tls: false
-  type: hysteria2
 - name: 🇫🇮FI
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -295,14 +288,6 @@ proxies:
   server: 3.36.89.239
   skip-cert-verify: true
   sni: vpn-kr-003.fastervpn.world
-  tls: false
-  type: hysteria2
-- name: 🇰🇷142841 | ⚡️Telegram = t.me/S...
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 43.201.1.129
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '罗马尼亚 #2'
@@ -412,6 +397,15 @@ proxies:
   sni: nl2.sferavpn.pro
   tls: false
   type: hysteria2
+- name: '美国 #2'
+  obfs: salamander
+  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+  password: cd74c0a406664a5bc0bac098220a2468
+  port: 443
+  server: node1.sferavpn.pro
+  sni: node1.sferavpn.pro
+  tls: false
+  type: hysteria2
 - name: '德国 #3'
   password: d1224950-ffab-4b9a-8696-431b40a6cfbd
   port: 443
@@ -440,7 +434,7 @@ proxies:
   sni: hy2.frdmhere.com
   tls: false
   type: hysteria2
-- name: '美国 #2'
+- name: '美国 #3'
   password: e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474
   port: 8458
   server: hy2-us.frdmhere.com
@@ -454,20 +448,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '印度 #1'
-  password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
-  port: 443
-  server: ln4.xiaoliyu.cyou
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '美国 #3'
-  password: f64c72a1-7e1f-4dd1-8929-7e41682542e2
-  port: 443
-  server: us4.xiaoliyu.cyou
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 捷克
   password: gf1
   port: 443
@@ -476,7 +456,7 @@ proxies:
   sni: www.dell.com
   tls: false
   type: hysteria2
-- name: '🇳🇱NL-🚀@VPNine1 #1'
+- name: 🇳🇱NL-🚀@VPNine1
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -527,14 +507,14 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '英国 #1'
+- name: 英国
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.221
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 🇳🇱NL-🚀@VPNine1
+- name: ⚛️22@oneclickvpnkeys
   password: 042a1881-44e4-4781-bd40-bf75164faf4f
   port: 443
   server: 144.31.234.58
@@ -564,6 +544,14 @@ proxies:
   obfs-password: gu74jg3ym0e21zco
   password: 09e4b638945d44bfa60b4fd00edad131
   port: 52000
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇫🇮FI-🚀@VPNine1
+  password: 09e4b638945d44bfa60b4fd00edad131
+  port: 52079
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -792,6 +780,30 @@ proxies:
   port: 443
   server: ru1.sferavpn.pro
   sni: ru1.sferavpn.pro
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '🇫🇮FI-🚀@VPNine1 #1'
+  obfs: salamander
+  obfs-password: v8h63irhnay97090
+  password: d86efa900c2f4bb6bde662f1ef6413b8
+  port: 52029
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: ''
+  tls: false
+  type: hysteria2
+- alpn:
+  - h3
+  name: '🇫🇮FI-🚀@VPNine1 #2'
+  obfs: salamander
+  obfs-password: v8h63irhnay97090
+  password: d86efa900c2f4bb6bde662f1ef6413b8
+  port: 52029
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: 𝐓𝐮𝐧𝐧𝐞𝐥  𝐠𝐞𝐫𝐦𝐚𝐧𝐲 ² 🇩🇪-@vpnserve...
