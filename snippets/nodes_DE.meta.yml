@@ -71,6 +71,14 @@ proxies:
   sni: de.jey.cc.cd
   tls: false
   type: hysteria2
+- name: 🦁14@oneclickvpnkeys
+  password: dbab9df7-5c0a-4726-8574-11e34972b67d
+  port: 33015
+  server: 86.53.105.117
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   name: 🇩🇪143501 | ⚡️Telegram = t.me/S...
