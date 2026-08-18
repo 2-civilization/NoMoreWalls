@@ -72,6 +72,16 @@ proxies:
   sni: fr131.mechvpn.online
   tls: false
   type: hysteria2
+- name: 🇩🇪146484 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: Telegram@vpnjey
+  password: Telegram@vpnjey
+  port: 37009
+  server: 31.76.27.23
+  skip-cert-verify: true
+  sni: de.vpnjey.store
+  tls: false
+  type: hysteria2
 - alpn:
   - h3
   fingerprint: chrome
