@@ -303,7 +303,7 @@ proxies:
   sni: rpc-2068.internet-booster.com
   tls: false
   type: hysteria2
-- name: 澳大利亚
+- name: 🇦🇺146193 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: b42d90fa667942aebc734d60
   password: b42d90fa667942aebc734d60
@@ -516,6 +516,14 @@ proxies:
   sni: node3.vpnushka.lol
   tls: false
   type: hysteria2
+- fingerprint: chrome
+  name: 🇷🇺146245 | ⚡️Telegram = t.me/S...
+  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
+  port: 2056
+  server: els1.mangshe.xyz
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 🇩🇪|DE|@wxgqlfx|22
   password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
   port: 2056
@@ -530,18 +538,6 @@ proxies:
   server: 152.67.200.82
   skip-cert-verify: true
   sni: 152-67-200-82.liao.kdns.fr
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: MTMVPN 15
-  obfs: salamander
-  obfs-password: gu74jg3ym0e21zco
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52000
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - alpn:
@@ -658,16 +654,6 @@ proxies:
   server: 31.76.80.69
   skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
-  tls: false
-  type: hysteria2
-- name: 未命名
-  obfs: salamander
-  obfs-password: uw9b2qq5rx
-  password: 6aab8efdf13945829ae3699c342be406
-  port: 443
-  server: 31.76.80.69
-  skip-cert-verify: false
-  sni: fiproxy1.lockdwn.com@freenettir³
   tls: false
   type: hysteria2
 - name: '@Daily_Configs'
@@ -1010,7 +996,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@vmesskhodam #4'
+- name: 🇫🇮146209 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: phos93w1zi0nj6uv
   password: m3bqxk03mg221yi2
