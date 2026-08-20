@@ -1,4 +1,12 @@
 proxies:
+- name: 德国
+  password: 2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o
+  port: 443
+  server: pixelcast.wwwinternetvideo.click
+  skip-cert-verify: true
+  sni: pixelcast.wwwinternetvideo.click
+  tls: false
+  type: hysteria2
 - name: 'کانال تلگرام : Free_VPN_CH@'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -9,13 +17,6 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 德国
-  password: c175d956-d1f4-4c53-b2b1-8493bf8529c6
-  port: 443
-  server: 87.120.84.189
-  sni: de1.apexvpn.space
-  tls: false
-  type: hysteria2
 - name: '德国 #1'
   password: d1224950-ffab-4b9a-8696-431b40a6cfbd
   port: 443
@@ -24,6 +25,22 @@ proxies:
   tls: false
   type: hysteria2
 - name: '德国 #2'
+  password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
+  port: 8443
+  server: 194.180.188.104
+  skip-cert-verify: true
+  sni: keyhop-offshore.roxa.org
+  tls: false
+  type: hysteria2
+- name: '德国 #3'
+  password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
+  port: 8443
+  server: 194.180.188.97
+  skip-cert-verify: true
+  sni: keyhop-offshore.roxa.org
+  tls: false
+  type: hysteria2
+- name: '德国 #4'
   password: mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj
   port: 443
   server: de.1.23.h2corp.org
