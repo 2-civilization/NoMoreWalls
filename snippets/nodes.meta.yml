@@ -360,7 +360,7 @@ proxies:
   sni: nl2.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 🇺🇸US-🚀@VPNine1
+- name: 🇺🇸147466 | ⚡️Telegram = t.me/S...
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -581,15 +581,6 @@ proxies:
   port: 443
   server: 31.76.80.69
   skip-cert-verify: false
-  sni: fiproxy1.lockdwn.com
-  tls: false
-  type: hysteria2
-- name: '@Daily_Configs'
-  obfs: salamander
-  obfs-password: uw9b2qq5rx
-  password: 6aab8efdf13945829ae3699c342be406
-  port: 443
-  server: fiproxy1.lockdwn.com
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
@@ -875,7 +866,6 @@ proxies:
   password: d86efa900c2f4bb6bde662f1ef6413b8
   port: 52029
   server: assets.gateway-stream.com
-  skip-cert-verify: false
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
@@ -895,6 +885,14 @@ proxies:
   sni: 198-46-188-116.liao.kdns.fr
   tls: false
   type: hysteria2
+- fingerprint: chrome
+  name: 🇮🇷IR-🚀@VPNine1
+  password: iuD-0Q_Ree6KxsXayy0-UIBOtFRtXWlk
+  port: 443
+  server: ir.rootit.online
+  sni: ir.rootit.online
+  tls: false
+  type: hysteria2
 - name: 🇫🇮|FI|@wxgqlfx|169
   password: k-qZIMk71_90gFFSfFiP688PqB6yLxie
   port: 43327
@@ -903,7 +901,7 @@ proxies:
   sni: gate-v1.not-a-projects.xyz
   tls: false
   type: hysteria2
-- name: 🇫🇮@
+- name: 🇫🇮@FreakConfig
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
   password: m3bqxk03mg221yi2
@@ -989,7 +987,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇫🇮@FreakConfig
+- name: '🇫🇮@FreakConfig #1'
   obfs: salamander
   obfs-password: d6pv15sghiq1onts
   password: t8t2qojzsykqazfu
@@ -999,11 +997,21 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #1'
+- name: '@Daily_Configs'
   obfs: salamander
   obfs-password: 7206pa46enqqdnmt
   password: t8t2qojzsykqazfu
   port: 52040
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '@Nexus_Panell چنل تلگرام'
+  obfs: salamander
+  obfs-password: auw7lhtk2kxyq4g9
+  password: t8t2qojzsykqazfu
+  port: 52057
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
