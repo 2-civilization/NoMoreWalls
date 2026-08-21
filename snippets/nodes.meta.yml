@@ -425,6 +425,13 @@ proxies:
 - name: 英国
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8080
+  server: 138.124.0.168
+  sni: hopp-legend-se.roxa.org
+  tls: false
+  type: hysteria2
+- name: '英国 #1'
+  password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
+  port: 8080
   server: 222.167.212.81
   skip-cert-verify: true
   sni: hopp-legend-se.roxa.org
@@ -476,6 +483,14 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: '荷兰 #7'
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 46.229.243.139
+  skip-cert-verify: true
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
 - name: 爱沙尼亚
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
@@ -521,7 +536,7 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 🇩🇪@FreakConfig
+- name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -643,6 +658,14 @@ proxies:
   port: 37003
   server: 179.61.251.253
   sni: de.jey.cc.cd
+  tls: false
+  type: hysteria2
+- name: 🍥80@oneclickvpnkeys
+  password: V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8
+  port: 443
+  server: player.wwwinternetvideo.click
+  skip-cert-verify: true
+  sni: player.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: 🇳🇱 - NL - @FreeOnlineVPN
