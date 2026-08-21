@@ -999,7 +999,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇫🇮@FreakConfig
+- name: 'kurdconfig #2'
   obfs: salamander
   obfs-password: d6pv15sghiq1onts
   password: t8t2qojzsykqazfu
@@ -1009,11 +1009,11 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs'
+- name: '@Nexus_Panell چنل تلگرام'
   obfs: salamander
-  obfs-password: 7206pa46enqqdnmt
+  obfs-password: auw7lhtk2kxyq4g9
   password: t8t2qojzsykqazfu
-  port: 52040
+  port: 52057
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
