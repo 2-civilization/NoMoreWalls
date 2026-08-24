@@ -563,16 +563,6 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '@confiig_hub'
-  obfs: salamander
-  obfs-password: dnwx30hvcobf7xcf
-  password: 0ansucp5k6aop125
-  port: 32950
-  server: 185.47.172.226
-  skip-cert-verify: false
-  sni: 185.47.172.226
-  tls: false
-  type: hysteria2
 - name: 🏓89@oneclickvpnkeys
   password: 2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f
   port: 443
@@ -677,6 +667,15 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- name: 🇳🇱151426 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: SalamanderNL2026
+  password: NL2026hy
+  port: 8443
+  server: 147.45.149.88
+  sni: nl.nobelchat.ru
   tls: false
   type: hysteria2
 - name: '@Iran_v2ray1'
