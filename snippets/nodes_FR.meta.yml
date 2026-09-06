@@ -1,5 +1,5 @@
 proxies:
-- name: 🇫🇷163769 | ⚡️Telegram = t.me/S...
+- name: ⭐️46@oneclickvpnkeys
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: 35.181.169.140
@@ -12,16 +12,6 @@ proxies:
   port: 8080
   server: 85.209.157.177
   sni: hopp-transit.1cooldns.com
-  tls: false
-  type: hysteria2
-- name: 🇫🇷@AZARBAYJAB1
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 6mk75ho4jzef3uuj
-  port: 52030
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
 - alpn:
